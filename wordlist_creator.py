@@ -1,6 +1,9 @@
 import os
 import time
 import requests
+import dotenv
+
+dotenv.load_dotenv()
 
 api_key = os.getenv('WORDNIK_API_KEY')
 url = 'https://api.wordnik.com/v4/words.json/randomWords'
