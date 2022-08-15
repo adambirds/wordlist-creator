@@ -11,7 +11,7 @@ url = 'https://api.wordnik.com/v4/words.json/randomWords'
 total_count = 0
 
 for i in range(1, 13):
-    for i in range(1, 5 + 1):
+    for j in range(1, 5 + 1):
         params = {
             'hasDictionaryDef': 'true',
             'minCorpusCount': '5000',
@@ -49,10 +49,10 @@ for i in range(1, 13):
                 for word in existing_words:
                     f.write(word + '\n')
 
-            print(f'{count} words added to wordlist.txt.')
+            print(f'Run {i}.{j}: {count} words added to wordlist.txt.')
             total_count += count
         elif response.status_code == 429:
-            print('Rate limit exceeded. Waiting...')
+            print('Run {i}.{j}: Rate limit exceeded. Waiting...')
             time.sleep(30)
         
     time.sleep(30)
