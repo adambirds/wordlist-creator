@@ -25,31 +25,35 @@ for i in range(1, 13):
         }
 
         response = requests.get(url, params=params)
-        words = response.json()
+        if response.status_code == 200:
+            words = response.json()
 
-        existing_words =[]
-        with open('wordlist.txt', 'r') as f:
-            for line in f:
-                existing_words.append(line.rstrip())
-        
-        count = 0
-        for word in words:
-            actual_word: str = word['word']
-            if actual_word not in existing_words:
-                if actual_word.isalpha():
-                    count += 1
-                    existing_words.append(actual_word.lower())
-            else:
-                continue
+            existing_words =[]
+            with open('wordlist.txt', 'r') as f:
+                for line in f:
+                    existing_words.append(line.rstrip())
+            
+            count = 0
+            for word in words:
+                actual_word: str = word['word']
+                if actual_word not in existing_words:
+                    if actual_word.isalpha():
+                        count += 1
+                        existing_words.append(actual_word.lower())
+                else:
+                    continue
 
-        existing_words = sorted(existing_words)
+            existing_words = sorted(existing_words)
 
-        with open('wordlist.txt', 'w') as f:
-            for word in existing_words:
-                f.write(word + '\n')
+            with open('wordlist.txt', 'w') as f:
+                for word in existing_words:
+                    f.write(word + '\n')
 
-        print(f'{count} words added to wordlist.txt.')
-        total_count += count
+            print(f'{count} words added to wordlist.txt.')
+            total_count += count
+        elif response.status_code == 429:
+            print('Rate limit exceeded. Waiting...')
+            time.sleep(30)
         
     time.sleep(30)
 
