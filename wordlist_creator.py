@@ -8,7 +8,7 @@ dotenv.load_dotenv()
 api_key = os.getenv('WORDNIK_API_KEY')
 url = 'https://api.wordnik.com/v4/words.json/randomWords'
 
-while True:
+for i in range(1, 5 + 1):
     params = {
         'hasDictionaryDef': 'true',
         'minCorpusCount': '5000',
@@ -42,5 +42,3 @@ while True:
     with open('wordlist.txt', 'w') as f:
         for word in existing_words:
             f.write(word + '\n')
-
-    time.sleep(18)
