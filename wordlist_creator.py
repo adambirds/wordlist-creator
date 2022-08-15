@@ -8,6 +8,8 @@ dotenv.load_dotenv()
 api_key = os.getenv('WORDNIK_API_KEY')
 url = 'https://api.wordnik.com/v4/words.json/randomWords'
 
+total_count = 0
+
 for i in range(1, 13):
     for i in range(1, 5 + 1):
         params = {
@@ -29,11 +31,13 @@ for i in range(1, 13):
         with open('wordlist.txt', 'r') as f:
             for line in f:
                 existing_words.append(line.rstrip())
-
+        
+        count = 0
         for word in words:
             actual_word: str = word['word']
             if actual_word not in existing_words:
                 if actual_word.isalpha():
+                    count += 1
                     existing_words.append(actual_word.lower())
             else:
                 continue
@@ -43,5 +47,10 @@ for i in range(1, 13):
         with open('wordlist.txt', 'w') as f:
             for word in existing_words:
                 f.write(word + '\n')
+
+        print(f'{count} words added to wordlist.txt.')
+        total_count += count
         
-        time.sleep(30)
+    time.sleep(30)
+
+print(f'{total_count} words added to wordlist.txt during runtime.')
