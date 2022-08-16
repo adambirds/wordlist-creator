@@ -5,6 +5,7 @@ abandon
 abandoned
 abandonment
 abate
+abatement
 abba
 abbey
 abbot
@@ -43,6 +44,7 @@ abort
 aborted
 abortion
 abortive
+abound
 abounding
 about
 above
@@ -283,6 +285,7 @@ advertise
 advertisement
 advertising
 advice
+advisable
 advise
 advised
 adviser
@@ -482,6 +485,7 @@ alloy
 allude
 allure
 alluring
+allusion
 ally
 almanac
 almighty
@@ -1041,6 +1045,8 @@ assured
 assuredly
 assyrian
 asterisk
+astern
+asteroid
 asthma
 astonish
 astonishing
@@ -1080,6 +1086,7 @@ atonement
 atop
 atrium
 atrocious
+atrocity
 atrophy
 attach
 attached
@@ -1137,6 +1144,7 @@ aunt
 auntie
 aura
 aurora
+auspices
 auspicious
 austere
 australian
@@ -1235,6 +1243,7 @@ bachelor
 back
 backache
 backboard
+backbone
 backboned
 backcourt
 backdoor
@@ -1831,6 +1840,7 @@ bluster
 blustery
 boar
 board
+boarder
 boarding
 boardroom
 boards
@@ -2892,6 +2902,7 @@ chinese
 chinook
 chip
 chipped
+chipper
 chipping
 chips
 chirping
@@ -2905,6 +2916,7 @@ chive
 chloride
 chlorine
 chock
+chocolate
 choice
 choir
 choke
@@ -3037,6 +3049,7 @@ classic
 classical
 classically
 classification
+classified
 classify
 classmate
 clatter
@@ -3374,6 +3387,7 @@ compass
 compassion
 compassionate
 compatibility
+compatible
 compatriot
 compel
 compendium
@@ -3799,6 +3813,7 @@ cordial
 cordiality
 cordless
 cordoba
+cordon
 core
 coriander
 corinth
@@ -4071,6 +4086,7 @@ criterion
 critic
 critical
 criticise
+criticism
 criticize
 critique
 critter
@@ -4395,6 +4411,7 @@ debtless
 debtor
 debug
 debunk
+debut
 decade
 decadence
 decadent
@@ -4420,6 +4437,7 @@ deceptively
 decibel
 decidable
 decide
+decided
 decidedly
 decider
 decimal
@@ -4495,6 +4513,7 @@ deferred
 defiance
 defiant
 deficiency
+deficient
 deficit
 defile
 defiled
@@ -5157,6 +5176,7 @@ distinguishable
 distinguished
 distinguishing
 distort
+distortion
 distract
 distracted
 distraction
@@ -5590,6 +5610,7 @@ eatery
 eating
 eats
 eaves
+eavesdropping
 ebay
 ebenezer
 ebony
@@ -5615,6 +5636,7 @@ economy
 ecosphere
 ecosystem
 ecstasy
+ecstatic
 ecumenical
 eddy
 eden
@@ -5638,6 +5660,7 @@ education
 educational
 educator
 edward
+edwardian
 eel
 effect
 effective
@@ -5758,6 +5781,7 @@ embarrass
 embarrassed
 embarrassing
 embarrassingly
+embarrassment
 embassy
 embattled
 embed
@@ -5917,6 +5941,7 @@ enlargement
 enlarging
 enlighten
 enlightened
+enlightening
 enlightenment
 enlist
 enlisted
@@ -5968,6 +5993,7 @@ entrance
 entrant
 entrap
 entreat
+entreaty
 entree
 entrench
 entrepreneur
@@ -5984,6 +6010,7 @@ envelope
 enviable
 enviably
 envious
+environment
 environmental
 environs
 envision
@@ -6115,6 +6142,7 @@ ethnicity
 ethos
 etruscan
 etymology
+eucalyptus
 eucharist
 euclid
 eugenia
@@ -6178,6 +6206,7 @@ exacting
 exactly
 exaggerate
 exaggerated
+exaggeration
 exalted
 examination
 examine
@@ -6283,6 +6312,7 @@ expediter
 expedition
 expel
 expend
+expendable
 expenditure
 expense
 expenses
@@ -6523,12 +6553,14 @@ fatherly
 fathom
 fatigue
 fatty
+fatwa
 faucet
 fault
 faultless
 faulty
 fauna
 faust
+favor
 favorable
 favorably
 favored
@@ -6766,6 +6798,7 @@ flag
 flagging
 flagman
 flagpole
+flagrant
 flagship
 flagstick
 flagstone
@@ -7095,6 +7128,7 @@ fragile
 fragility
 fragment
 fragmentary
+fragmentation
 fragrance
 fragrant
 frail
@@ -7265,6 +7299,7 @@ furniture
 furor
 furrow
 furry
+further
 furtherance
 furthermore
 furthest
@@ -7392,6 +7427,7 @@ gender
 genealogy
 general
 generality
+generalization
 generalize
 generalized
 generate
@@ -7604,6 +7640,7 @@ goliath
 gonad
 gondola
 gone
+goner
 gong
 good
 goodbye
@@ -7817,6 +7854,7 @@ grotto
 ground
 groundbreaking
 grounded
+grounder
 grounding
 groundless
 grounds
@@ -8095,6 +8133,7 @@ hash
 hassle
 hast
 haste
+hasten
 hastily
 hastiness
 hastings
@@ -8112,6 +8151,7 @@ hater
 hath
 hatless
 hatred
+haughtily
 haughty
 haul
 haunt
@@ -8122,6 +8162,7 @@ have
 haven
 having
 havoc
+hawaii
 hawaiian
 hawk
 hawking
@@ -8514,6 +8555,7 @@ humidity
 humiliate
 humiliated
 humiliating
+humiliation
 humility
 hummer
 humming
@@ -8592,6 +8634,7 @@ hyperbole
 hyperbolic
 hyperion
 hyperlink
+hypertension
 hypertext
 hyphen
 hypnoses
@@ -8612,6 +8655,7 @@ ibuprofen
 ice
 iceberg
 iceland
+icelandic
 iciness
 icing
 icky
@@ -8786,6 +8830,7 @@ impotency
 impotent
 impound
 impoverished
+impracticable
 impractical
 imprecise
 impregnable
@@ -8801,6 +8846,7 @@ impromptu
 improper
 impropriety
 improve
+improved
 improvement
 improving
 improvisation
@@ -8868,6 +8914,7 @@ inclined
 include
 included
 inclusion
+inclusive
 incoherent
 income
 incoming
@@ -9141,6 +9188,7 @@ insightful
 insignia
 insignificant
 insincere
+insinuate
 insinuating
 insinuation
 insipid
@@ -9167,6 +9215,7 @@ installment
 instalment
 instance
 instant
+instantaneous
 instantly
 instead
 instigate
@@ -9387,6 +9436,7 @@ irrespective
 irresponsible
 irreverent
 irreversible
+irrevocable
 irrigate
 irrigation
 irritability
@@ -9670,9 +9720,11 @@ ketchup
 kettle
 keyboard
 keyed
+keynes
 keynesian
 keynote
 keyword
+khaki
 kick
 kicker
 kicking
@@ -9782,6 +9834,7 @@ labyrinth
 lace
 laced
 lack
+lackey
 lackluster
 laconic
 lactose
@@ -9800,6 +9853,7 @@ lagged
 lagging
 lagoon
 laid
+lain
 lair
 laity
 lake
@@ -9853,6 +9907,7 @@ lapsed
 laptop
 larceny
 lard
+laredo
 large
 largely
 lark
@@ -9874,6 +9929,7 @@ latency
 latent
 later
 lateral
+latest
 lather
 latin
 latina
@@ -10014,6 +10070,7 @@ less
 lessen
 lessening
 lesser
+lesson
 lest
 letdown
 lethal
@@ -10127,6 +10184,7 @@ lined
 lineman
 linen
 liner
+lines
 lineup
 linger
 lingerie
@@ -10230,6 +10288,7 @@ lodge
 lodging
 lodgings
 loft
+lofty
 logan
 logic
 logical
@@ -10464,6 +10523,7 @@ makeup
 making
 malacca
 malachi
+malady
 malaga
 malaise
 malay
@@ -10589,6 +10649,7 @@ marital
 maritime
 mark
 marked
+marker
 market
 marketable
 marketer
@@ -10820,6 +10881,7 @@ meredith
 merely
 merge
 merger
+merging
 meridian
 meringue
 merit
@@ -11283,6 +11345,7 @@ multiplier
 multiply
 multitask
 multitude
+multivitamin
 mumble
 mumbling
 mumbo
@@ -11606,6 +11669,7 @@ nonsensical
 nonstop
 nonviolence
 nonviolent
+noodle
 nook
 noon
 noose
@@ -11852,6 +11916,7 @@ ominous
 omission
 omit
 omnibus
+omnipotent
 omnipresent
 omniscient
 omnivore
@@ -12298,6 +12363,7 @@ pantry
 pants
 pantyhose
 papa
+papacy
 papal
 paparazzi
 papaya
@@ -12572,9 +12638,11 @@ pennsylvania
 penny
 penpal
 pension
+pensive
 pent
 pentagon
 pentagram
+pentecost
 pentecostal
 penthouse
 penultimate
@@ -12617,6 +12685,7 @@ perilous
 perimeter
 period
 periodic
+periodically
 peripheral
 periphery
 periscope
@@ -12884,6 +12953,7 @@ plausibly
 play
 playable
 playback
+playbook
 player
 playful
 playground
@@ -13011,6 +13081,7 @@ polygamist
 polygon
 polygraph
 polymer
+polynesian
 pomegranate
 pomp
 pompey
@@ -13260,6 +13331,7 @@ prerequisite
 presbyterian
 preschool
 prescient
+prescott
 prescribe
 prescribed
 prescription
@@ -13398,6 +13470,7 @@ procurement
 procurer
 prod
 prodigal
+prodigious
 prodigy
 produce
 producer
@@ -13587,6 +13660,7 @@ pry
 prying
 psalm
 pseudonym
+psoriasis
 psyche
 psychedelic
 psychic
@@ -14175,6 +14249,7 @@ refrigerate
 refrigeration
 refrigerator
 refueling
+refuge
 refugee
 refund
 refurbish
@@ -14235,6 +14310,7 @@ reimburse
 rein
 reincarnation
 reindeer
+reinforce
 reinforcement
 reins
 reinstate
@@ -14848,6 +14924,7 @@ rosemary
 ross
 roster
 rosy
+rotary
 rotate
 rotated
 rote
@@ -15085,6 +15162,7 @@ satanic
 satanism
 satchel
 sate
+satellite
 satiable
 satin
 satire
@@ -15131,6 +15209,7 @@ saxon
 saxony
 saxophone
 say
+saying
 scab
 scabbard
 scabbed
@@ -15641,6 +15720,7 @@ shocking
 shockingly
 shod
 shoddy
+shoemaker
 shone
 shoo
 shook
@@ -15760,8 +15840,10 @@ sift
 sigh
 sighing
 sight
+sighted
 sighting
 sights
+sightseeing
 sign
 signal
 signatory
@@ -15796,6 +15878,7 @@ similarly
 simile
 simmer
 simmering
+simon
 simple
 simpler
 simplicity
@@ -15832,6 +15915,7 @@ sinker
 sinless
 sinner
 sinuous
+sinus
 sion
 sip
 sire
@@ -15995,6 +16079,7 @@ slinging
 slingshot
 slinky
 slip
+slipper
 slippery
 slit
 sliver
@@ -16047,6 +16132,7 @@ smelly
 smelt
 smelting
 smile
+smiley
 smiling
 smilingly
 smirk
@@ -16081,6 +16167,7 @@ snack
 snag
 snagged
 snail
+snake
 snaking
 snap
 snapper
@@ -16208,7 +16295,9 @@ soluble
 solution
 solve
 solvent
+somali
 somber
+sombre
 some
 somebody
 somehow
@@ -16319,6 +16408,7 @@ specifically
 specification
 specificity
 specimen
+specious
 speck
 specked
 speckled
@@ -16804,6 +16894,7 @@ strapless
 strapping
 stratagem
 strategic
+strategist
 strategy
 stratosphere
 stratus
@@ -16824,6 +16915,7 @@ strengthening
 strenuous
 strep
 stress
+stressed
 stressful
 stretch
 stretcher
@@ -17188,6 +17280,7 @@ swab
 swaddling
 swag
 swagger
+swallow
 swampland
 swan
 swanky
@@ -17337,6 +17430,7 @@ tail
 tailed
 tailgate
 tailor
+tailored
 tails
 tailspin
 taint
@@ -17918,6 +18012,7 @@ towards
 tower
 towering
 town
+townhouse
 township
 townspeople
 toxic
@@ -18992,6 +19087,7 @@ upward
 upwards
 upwind
 uranium
+uranus
 urban
 urbanization
 urchin
