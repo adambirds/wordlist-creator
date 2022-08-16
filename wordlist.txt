@@ -159,6 +159,7 @@ acknowledgement
 acknowledgment
 acne
 acorn
+acoustic
 acoustics
 acquaint
 acquaintance
@@ -417,6 +418,7 @@ ainsworth
 airborne
 aircraft
 airfield
+airing
 airlift
 airline
 airman
@@ -650,6 +652,7 @@ ancestral
 ancestry
 anchor
 anchorage
+anchored
 anchovy
 ancient
 ancillary
@@ -1047,6 +1050,7 @@ aspire
 aspirin
 aspiring
 assail
+assailant
 assam
 assassin
 assassinate
@@ -1828,6 +1832,7 @@ blessedness
 blessing
 blest
 blew
+blight
 blighted
 blimp
 blind
@@ -2818,6 +2823,7 @@ century
 ceramic
 ceramics
 cerberus
+cereal
 cerebral
 ceremonial
 ceremony
@@ -3224,6 +3230,7 @@ clicker
 client
 clientele
 cliff
+cliffhanger
 clift
 climactic
 climate
@@ -3627,6 +3634,7 @@ concerning
 concert
 concerted
 concerto
+concession
 conch
 concierge
 conciliation
@@ -7158,6 +7166,7 @@ flood
 flooded
 flooding
 floor
+floored
 flooring
 flop
 floppy
@@ -8388,6 +8397,7 @@ happiest
 happily
 happiness
 happy
+harangue
 harass
 harassment
 harbinger
@@ -11267,6 +11277,7 @@ medial
 median
 mediate
 mediation
+mediator
 medic
 medical
 medication
@@ -12369,6 +12380,7 @@ octane
 october
 octopus
 oddball
+oddity
 oddly
 odds
 odin
@@ -13896,6 +13908,7 @@ preponderance
 preposterous
 preppy
 prerequisite
+prerogative
 presbyterian
 preschool
 prescient
@@ -14338,6 +14351,7 @@ purposely
 purr
 purse
 pursuable
+pursuance
 pursuant
 pursue
 pursuit
@@ -14697,6 +14711,7 @@ reciprocal
 reciprocate
 reciprocity
 recital
+recitation
 recite
 reckless
 reckon
@@ -14873,6 +14888,7 @@ registrar
 registration
 registry
 regress
+regression
 regressive
 regret
 regretful
@@ -15416,6 +15432,7 @@ rimmed
 rind
 ring
 ringed
+ringer
 ringing
 ringleader
 rink
@@ -16012,6 +16029,7 @@ seaman
 seamless
 seaport
 search
+searching
 searing
 seashore
 seaside
@@ -16751,6 +16769,7 @@ slouchy
 slovak
 slow
 slowly
+slowness
 sludge
 slug
 slugger
@@ -17556,6 +17575,7 @@ strained
 strainer
 straining
 strait
+strand
 strange
 strangely
 strangeness
@@ -18349,6 +18369,7 @@ testosterone
 testy
 tether
 teutonic
+texas
 text
 textbook
 textile
@@ -20835,3 +20856,4 @@ zoologist
 zoology
 zoom
 zucchini
+zulu
