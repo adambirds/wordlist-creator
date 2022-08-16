@@ -152,6 +152,7 @@ aching
 acid
 acidity
 acknowledge
+acknowledged
 acknowledgement
 acknowledgment
 acne
@@ -1064,6 +1065,7 @@ assuage
 assume
 assumed
 assuming
+assumption
 assurance
 assure
 assured
@@ -2380,6 +2382,7 @@ buttoned
 buyer
 buyout
 buzz
+buzzer
 buzzing
 bygone
 bypass
@@ -2734,6 +2737,7 @@ celestial
 celibacy
 celibate
 cellular
+celluloid
 cellulose
 celsius
 celtic
@@ -2843,6 +2847,7 @@ charger
 charging
 chariot
 charisma
+charismatic
 charitable
 charitably
 charity
@@ -3003,6 +3008,7 @@ choreography
 chorus
 chose
 chosen
+chow
 chowder
 chowtime
 christ
@@ -3213,6 +3219,7 @@ clout
 clove
 clover
 clovis
+clown
 club
 clubbed
 clubbing
@@ -4637,6 +4644,7 @@ deftly
 defunct
 defuse
 defy
+degenerate
 degeneration
 degenerative
 degradation
@@ -5260,6 +5268,7 @@ dissension
 dissent
 dissertation
 disservice
+dissident
 dissimilar
 dissipate
 dissipated
@@ -5825,6 +5834,7 @@ elaboration
 elastic
 elasticity
 elated
+elation
 elbow
 elder
 eldercare
@@ -6269,6 +6279,7 @@ etymology
 eucalyptus
 eucharist
 euclid
+eugene
 eugenia
 eugenics
 eulogy
@@ -6281,6 +6292,7 @@ european
 euthanasia
 evacuate
 evacuated
+evacuation
 evacuee
 evade
 evaluate
@@ -6459,6 +6471,7 @@ expiration
 expire
 expired
 expiring
+expiry
 explain
 explanation
 explanatory
@@ -6762,6 +6775,7 @@ fencing
 fend
 fender
 fennel
+feral
 ferment
 fermentation
 fermi
@@ -6792,6 +6806,7 @@ fete
 fetish
 fetus
 feud
+feudal
 fever
 fiance
 fiasco
@@ -7263,6 +7278,7 @@ fowl
 fowler
 fox
 foyer
+fracas
 fraction
 fractional
 fractious
@@ -8092,6 +8108,7 @@ gunman
 gunner
 gunning
 gunpoint
+gunpowder
 gurgle
 gurgling
 guru
@@ -8557,6 +8574,7 @@ hire
 hired
 hispanic
 hiss
+hissing
 hissy
 historian
 historic
@@ -8980,6 +8998,7 @@ imperious
 impersonal
 impersonation
 impertinence
+impertinent
 impervious
 impetuous
 impetus
@@ -9193,6 +9212,7 @@ indoctrination
 indolence
 indolent
 indomitable
+indoor
 indoors
 induce
 inducement
@@ -9466,6 +9486,7 @@ intensity
 intensive
 intent
 intention
+intentional
 intentionally
 inter
 interact
@@ -9679,6 +9700,7 @@ itunes
 ivory
 ivy
 jab
+jack
 jackal
 jackass
 jacked
@@ -9909,12 +9931,14 @@ keeper
 keeping
 keg
 kellogg
+kelly
 kelp
 kelvin
 kendal
 kendall
 kennedy
 kennel
+kent
 kenya
 kenyan
 kept
@@ -9926,6 +9950,7 @@ ketchup
 kettle
 keyboard
 keyed
+keyhole
 keynes
 keynesian
 keynote
@@ -10356,6 +10381,7 @@ lighter
 lighthouse
 lighting
 lightly
+lightness
 lightning
 lights
 lightweight
@@ -12216,6 +12242,7 @@ opener
 opening
 openly
 openness
+opera
 operable
 operate
 operatic
@@ -13143,6 +13170,7 @@ piloting
 pima
 pimp
 pimping
+pinch
 pinched
 pine
 pineapple
@@ -14634,6 +14662,7 @@ relatable
 relate
 related
 relation
+relational
 relationship
 relative
 relatively
@@ -15388,6 +15417,7 @@ salient
 saline
 salisbury
 sallow
+sally
 salmon
 salome
 salon
@@ -15692,6 +15722,7 @@ scum
 scurvy
 scuttle
 scythe
+seaboard
 seal
 sealed
 sealing
@@ -16241,6 +16272,7 @@ sinuous
 sinus
 sion
 sip
+siphon
 sire
 siren
 sirius
@@ -19922,6 +19954,7 @@ wasteland
 wasting
 watch
 watchdog
+watchful
 watchman
 water
 watercolor
