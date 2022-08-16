@@ -580,6 +580,7 @@ amish
 amiss
 ammonia
 ammonium
+ammunition
 amnesia
 amnesty
 amniotic
@@ -776,6 +777,7 @@ apache
 apart
 apartheid
 apartment
+apathetic
 apathy
 aperture
 apiece
@@ -849,6 +851,7 @@ approaching
 approbation
 appropriate
 appropriateness
+appropriation
 approval
 approve
 approving
@@ -2036,6 +2039,7 @@ bowing
 bowl
 bowler
 bowling
+bowls
 boxcar
 boxed
 boxer
@@ -2589,6 +2593,7 @@ carpet
 carpeting
 carpool
 carport
+carriage
 carried
 carrier
 carrot
@@ -4962,6 +4967,7 @@ diehard
 diesel
 diet
 dietary
+diff
 differ
 difference
 different
@@ -5281,6 +5287,7 @@ distrust
 distrustful
 disturb
 disturbance
+disturbed
 ditch
 ditto
 ditty
@@ -5697,6 +5704,7 @@ easterly
 eastern
 eastward
 easy
+easygoing
 eatable
 eaten
 eater
@@ -6296,6 +6304,7 @@ evidentiary
 evidently
 evil
 evocation
+evocative
 evoke
 evolution
 evolutionary
@@ -6358,6 +6367,7 @@ excusable
 excusably
 excuse
 exec
+executable
 execute
 execution
 executioner
@@ -7034,6 +7044,8 @@ fluffy
 fluke
 flung
 fluorescent
+fluoride
+flurry
 flush
 flushed
 flushing
@@ -7538,6 +7550,7 @@ gaze
 gazing
 gear
 gearbox
+gearing
 gecko
 geek
 geiger
@@ -7567,6 +7580,7 @@ genitalia
 genitals
 genius
 genoa
+genocide
 genre
 gent
 genteel
@@ -7857,6 +7871,7 @@ grapefruit
 graph
 graphic
 graphically
+graphics
 graphite
 grapple
 grappling
@@ -8019,6 +8034,7 @@ guardianship
 gubernatorial
 guelph
 guerilla
+guernsey
 guerrilla
 guess
 guesswork
@@ -8362,6 +8378,7 @@ hearted
 heartfelt
 heartily
 heartless
+hearts
 heartthrob
 hearty
 heat
@@ -8618,6 +8635,7 @@ hormone
 horn
 horned
 horrendous
+horribly
 horrid
 horrific
 horror
@@ -8635,6 +8653,7 @@ hospitality
 hospitalization
 host
 hostage
+hostel
 hostile
 hostilities
 hostility
@@ -9107,6 +9126,7 @@ indemnity
 independence
 independent
 independently
+indescribable
 indestructible
 indeterminate
 index
@@ -9263,6 +9283,7 @@ inherent
 inherit
 inheritance
 inhibit
+inhibition
 inhibitor
 inhospitable
 inhuman
@@ -9281,6 +9302,7 @@ injure
 injured
 injurious
 injury
+injustice
 inkling
 inky
 inlaid
@@ -9307,6 +9329,7 @@ inpatient
 input
 inquest
 inquire
+inquiring
 inquiry
 inquisition
 inquisitive
@@ -9694,6 +9717,7 @@ jerusalem
 jesse
 jest
 jester
+jesting
 jesuit
 jesus
 jet
@@ -10465,6 +10489,7 @@ lonely
 lonesome
 long
 longer
+longevity
 longing
 longitude
 longitudinal
@@ -10658,6 +10683,7 @@ mahdi
 mahogany
 maia
 maid
+maiden
 mail
 mailbox
 mailed
@@ -10778,6 +10804,7 @@ manual
 manufacture
 manufactured
 manufacturer
+manufacturing
 manuscript
 many
 maori
@@ -10957,6 +10984,7 @@ measly
 measurable
 measure
 measured
+measurement
 measuring
 meat
 meaty
@@ -11313,6 +11341,7 @@ molding
 molecular
 molecule
 molehill
+molest
 molestation
 mollusk
 molten
@@ -11447,6 +11476,7 @@ mothball
 mother
 motherfucker
 motherhood
+mothering
 motherly
 mothproof
 motif
@@ -11497,6 +11527,7 @@ movie
 moving
 mower
 mowing
+mozambican
 mozart
 mpeg
 much
@@ -11656,6 +11687,7 @@ nationalisation
 nationalism
 nationalist
 nationalistic
+nationality
 nationalization
 nationalize
 nationally
@@ -11972,6 +12004,7 @@ oak
 oasis
 oat
 oath
+oatmeal
 obedience
 obedient
 obeisance
@@ -12239,6 +12272,7 @@ originate
 origination
 orinoco
 orion
+orlando
 orleans
 ornament
 ornamental
@@ -12477,6 +12511,7 @@ pacifism
 pacifist
 pacify
 pack
+packaging
 packed
 packet
 packing
@@ -12543,6 +12578,7 @@ pancreas
 pancreatic
 panda
 pandemic
+pandemonium
 pander
 pandora
 pane
@@ -13875,6 +13911,7 @@ prussian
 pry
 prying
 psalm
+pseudo
 pseudonym
 psoriasis
 psych
@@ -14414,6 +14451,7 @@ reduced
 reducing
 reduction
 redundancy
+redundant
 redux
 reed
 reef
@@ -14685,6 +14723,7 @@ repayment
 repeal
 repeat
 repeated
+repeatedly
 repeater
 repeating
 repel
@@ -16155,6 +16194,7 @@ singularly
 sinister
 sink
 sinker
+sinking
 sinless
 sinner
 sinuous
@@ -16394,6 +16434,7 @@ smoking
 smoky
 smolder
 smooth
+smoother
 smoothie
 smoothly
 smoothness
@@ -17763,6 +17804,7 @@ tartar
 tartly
 tartness
 task
+tasmania
 tasmanian
 tassel
 taste
@@ -17818,6 +17860,7 @@ teddy
 tedious
 teeming
 teen
+teenage
 teens
 teeny
 teeth
@@ -19478,6 +19521,7 @@ vastly
 vastness
 vatican
 vaudeville
+vaughan
 vault
 vaulted
 veal
