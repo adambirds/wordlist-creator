@@ -421,6 +421,7 @@ airline
 airman
 airship
 airspace
+airtime
 airway
 airy
 aisle
@@ -988,6 +989,7 @@ arterial
 artery
 artful
 artfully
+arthritis
 arthur
 arthurian
 artichoke
@@ -1219,6 +1221,7 @@ automotive
 autonomous
 autonomy
 autopilot
+autopsy
 autumn
 autumnal
 auxiliary
@@ -3487,6 +3490,7 @@ communism
 communist
 community
 commute
+commuter
 commuting
 comp
 compact
@@ -5393,6 +5397,7 @@ divinity
 divisible
 divisibly
 division
+divisional
 divisive
 divorce
 divorced
@@ -5501,6 +5506,7 @@ doubtless
 douche
 dough
 doughnut
+douglas
 dour
 dove
 dover
@@ -6264,6 +6270,7 @@ erie
 erin
 erode
 eroded
+eros
 erosion
 erotic
 errand
@@ -7248,6 +7255,7 @@ foregoing
 foregone
 foreground
 forehand
+forehead
 foreign
 foreigner
 foreman
@@ -7866,6 +7874,7 @@ goddess
 godfather
 godless
 godlike
+godly
 godmother
 godsend
 goes
@@ -9395,6 +9404,7 @@ influx
 inform
 informal
 informally
+informant
 information
 informative
 informed
@@ -10025,6 +10035,7 @@ karma
 kashmiri
 kayak
 kazakh
+kazan
 kebab
 keel
 keen
@@ -10915,6 +10926,7 @@ maltese
 mama
 mamma
 mammal
+mammalian
 mammary
 mammogram
 mammoth
@@ -11394,6 +11406,7 @@ ming
 mingle
 mini
 miniature
+minibus
 minimal
 minimalism
 minimalist
@@ -11856,6 +11869,7 @@ napkin
 napped
 napping
 nappy
+narcissism
 narcotic
 narration
 narrative
@@ -12159,6 +12173,7 @@ nude
 nudge
 nudity
 nugget
+nuisance
 nuke
 null
 nullify
@@ -13005,6 +13020,7 @@ peaceful
 peach
 peacock
 peak
+peaked
 peaking
 peal
 peanut
@@ -13082,6 +13098,7 @@ pennsylvania
 penny
 penpal
 pension
+pensioner
 pensive
 pent
 pentagon
@@ -14021,6 +14038,7 @@ prop
 propaganda
 propagandist
 propagate
+propagation
 propane
 propel
 propeller
@@ -14278,6 +14296,7 @@ quality
 qualm
 quandary
 quantify
+quantitative
 quantity
 quantum
 quarantine
@@ -14580,6 +14599,7 @@ receptor
 recess
 recessed
 recession
+recharge
 recharger
 recipe
 recipient
@@ -14699,6 +14719,7 @@ refinish
 reflect
 reflected
 reflecting
+reflection
 reflective
 reflector
 reflex
@@ -14804,6 +14825,7 @@ rejection
 rejoice
 rejoicing
 rejoin
+rejoinder
 rejuvenate
 rejuvenated
 rekindle
@@ -15121,6 +15143,7 @@ resume
 resumption
 resupply
 resurface
+resurgence
 resurgent
 resurrect
 resurrection
@@ -15470,6 +15493,7 @@ rudimentary
 rueful
 ruefully
 ruffian
+ruffle
 ruffled
 rug
 rugged
@@ -16030,6 +16054,7 @@ separated
 separation
 separatist
 sepia
+sept
 september
 septic
 septum
@@ -17366,6 +17391,7 @@ stitching
 stock
 stockholder
 stocking
+stockpile
 stocks
 stocky
 stoic
@@ -18140,6 +18166,7 @@ temp
 temper
 temperament
 temperance
+temperate
 temperature
 tempered
 tempest
@@ -18317,6 +18344,7 @@ thirty
 this
 thither
 thomas
+thompson
 thong
 thor
 thorn
@@ -20314,6 +20342,7 @@ whitehall
 whiteness
 whitening
 whites
+whitewash
 whither
 whitney
 whiz
