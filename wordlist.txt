@@ -36,6 +36,7 @@ abode
 abolish
 abolition
 abominable
+abomination
 aboriginal
 aborigines
 aborted
@@ -126,6 +127,7 @@ accounting
 accreditation
 accrue
 accumulate
+accumulation
 accuracy
 accurate
 accurately
@@ -136,6 +138,7 @@ accused
 accustom
 accustomed
 acetone
+ache
 achievable
 achieve
 achievement
@@ -368,6 +371,7 @@ agin
 aging
 agitate
 agitated
+agitation
 agnostic
 agonize
 agonizing
@@ -424,6 +428,7 @@ alcoholism
 alcove
 alderman
 alert
+alerting
 alertness
 alexandria
 alfalfa
@@ -547,6 +552,7 @@ amendment
 amends
 amenity
 america
+american
 americana
 americanism
 amiable
@@ -595,6 +601,7 @@ analogous
 analogue
 analogy
 analyse
+analysis
 analyst
 analytic
 analytical
@@ -758,6 +765,7 @@ apocalyptic
 apolitical
 apollo
 apologetic
+apologetics
 apologise
 apologist
 apologize
@@ -1326,6 +1334,7 @@ banal
 banana
 band
 bandage
+banded
 banding
 bandit
 bandwagon
@@ -1411,6 +1420,7 @@ barterer
 barth
 bartlett
 baruch
+basal
 base
 baseball
 baseless
@@ -1581,6 +1591,7 @@ bereft
 berg
 berkeley
 berlin
+bern
 berry
 berth
 beseech
@@ -1662,6 +1673,7 @@ birth
 birthday
 birthing
 birthplace
+birthright
 biscuit
 bisexual
 bishop
@@ -2624,6 +2636,7 @@ caviar
 cavity
 cayenne
 cease
+ceaseless
 cecil
 cecilia
 cedar
@@ -2761,6 +2774,7 @@ charting
 chase
 chaser
 chasing
+chasm
 chassis
 chaste
 chastise
@@ -2970,6 +2984,7 @@ civil
 civilian
 civilisation
 civility
+civilization
 civilized
 civilly
 clad
@@ -3063,6 +3078,7 @@ clint
 clinton
 clio
 clip
+clipboard
 clipped
 clipping
 clique
@@ -3087,6 +3103,7 @@ closet
 closeted
 closing
 closure
+clot
 cloth
 clothe
 clothed
@@ -3392,6 +3409,7 @@ composure
 compound
 comprehend
 comprehensible
+comprehension
 comprehensive
 comprehensively
 compress
@@ -3661,6 +3679,7 @@ continental
 contingency
 contingent
 continual
+continually
 continuance
 continuation
 continue
@@ -4507,6 +4526,7 @@ delegate
 delegation
 delegator
 delete
+deleterious
 deletion
 deliberate
 deliberately
@@ -4545,6 +4565,7 @@ demeaning
 demeanor
 demented
 dementia
+demi
 demise
 demo
 democracy
@@ -4818,6 +4839,7 @@ diet
 dietary
 differ
 difference
+different
 differential
 differentiate
 differentiated
@@ -4920,6 +4942,7 @@ disappointed
 disappointing
 disappointment
 disapproval
+disapprove
 disarm
 disarmament
 disarmed
@@ -4929,6 +4952,7 @@ disaster
 disastrous
 disband
 disbelief
+disbelieve
 disburse
 disc
 discard
@@ -5488,6 +5512,7 @@ dyslexic
 dystopian
 each
 eager
+eagerly
 eagerness
 eagle
 earache
@@ -5741,6 +5766,7 @@ emigrate
 emigration
 eminence
 eminent
+eminently
 emirate
 emissary
 emission
@@ -6071,6 +6097,7 @@ eulogy
 eunuch
 euphemism
 eurasian
+euro
 europe
 european
 euthanasia
@@ -6117,6 +6144,7 @@ evil
 evocation
 evoke
 evolution
+evolutionary
 evolve
 exacerbate
 exact
@@ -6207,6 +6235,7 @@ existing
 exit
 exodus
 exonerate
+exorbitant
 exorcism
 exorcist
 exotic
@@ -6566,6 +6595,7 @@ fetch
 fetching
 fete
 fetish
+fetus
 feud
 fever
 fiance
@@ -6829,6 +6859,7 @@ fluency
 fluent
 fluently
 fluff
+fluffy
 fluke
 flung
 fluorescent
@@ -6848,6 +6879,7 @@ foam
 foaming
 focused
 focusing
+focussed
 fodder
 foe
 fog
@@ -6933,6 +6965,7 @@ forego
 foregoing
 foregone
 foreground
+forehand
 foreign
 foreigner
 foreman
@@ -7322,6 +7355,7 @@ geiger
 gelatin
 gem
 gender
+genealogy
 general
 generality
 generalize
@@ -7797,6 +7831,7 @@ guggenheim
 guidable
 guidance
 guide
+guidebook
 guideline
 guiding
 guild
@@ -7898,6 +7933,7 @@ hammered
 hammock
 hamper
 hampshire
+hampton
 hamster
 hamstring
 hand
@@ -7920,6 +7956,7 @@ handicap
 handicapped
 handiness
 handiwork
+handkerchief
 handle
 handlebar
 handled
@@ -8054,6 +8091,7 @@ havoc
 hawaiian
 hawk
 hawking
+hawkins
 hayes
 haystack
 hazard
@@ -8532,6 +8570,7 @@ hypocritical
 hypothesis
 hypothetical
 hysteria
+hysterical
 iberia
 ibuprofen
 ice
@@ -8574,6 +8613,7 @@ igloo
 ignite
 ignition
 ignoble
+ignominious
 ignominy
 ignorance
 ignorant
@@ -8657,6 +8697,7 @@ impatient
 impeach
 impeachable
 impeachment
+impede
 impediment
 impeding
 impending
@@ -8720,6 +8761,7 @@ imprisonment
 improbable
 impromptu
 improper
+impropriety
 improve
 improvement
 improving
@@ -8791,6 +8833,7 @@ inclusion
 incoherent
 income
 incoming
+incompatible
 incompetence
 incompetent
 incomplete
@@ -8825,6 +8868,7 @@ indecency
 indecent
 indecision
 indecisive
+indeed
 indefatigable
 indefensible
 indefinite
@@ -8955,7 +8999,9 @@ inflow
 influence
 influential
 influenza
+influx
 inform
+informal
 informally
 information
 informative
@@ -9015,6 +9061,7 @@ innards
 innate
 inner
 innermost
+inning
 innkeeper
 innocence
 innocent
@@ -9039,6 +9086,7 @@ insatiable
 inscription
 inscrutable
 insect
+insecure
 insecurity
 insemination
 insensible
@@ -9086,6 +9134,7 @@ instigation
 instill
 instinct
 instinctive
+institute
 institution
 institutional
 instruct
@@ -9122,6 +9171,7 @@ integrity
 intellect
 intellectual
 intelligent
+intelligible
 intemperate
 intend
 intended
@@ -9190,6 +9240,7 @@ interview
 intestinal
 intestine
 intimacy
+intimate
 intimately
 intimation
 intimidate
@@ -9280,6 +9331,7 @@ ironical
 ironing
 irons
 irony
+irrational
 irreconcilable
 irrefutable
 irregular
@@ -9839,6 +9891,7 @@ leaflet
 leafy
 league
 leak
+leakage
 leaky
 lean
 leaning
@@ -9907,6 +9960,7 @@ lending
 length
 lengthen
 lengthwise
+lengthy
 lenient
 lens
 lent
@@ -9939,6 +9993,7 @@ leviticus
 levity
 levy
 lewis
+lexicon
 lexington
 lhasa
 liability
@@ -10394,6 +10449,7 @@ manage
 manageable
 management
 manager
+managerial
 managing
 manatee
 manchester
@@ -10697,6 +10753,7 @@ menagerie
 mend
 mending
 menial
+meningitis
 menopause
 menstrual
 ment
@@ -10862,6 +10919,7 @@ mirth
 miscalculation
 miscarriage
 miscellaneous
+miscellany
 mischief
 misconception
 misconduct
@@ -11053,6 +11111,7 @@ morbidity
 morbidly
 more
 moreover
+mores
 morgan
 morgue
 moribund
@@ -11150,6 +11209,7 @@ muck
 mucus
 mud
 muddle
+muddy
 muffin
 muffled
 mug
@@ -11711,6 +11771,7 @@ offshore
 offspring
 often
 oftentimes
+ogden
 ogle
 ogre
 ohio
@@ -12420,6 +12481,7 @@ peek
 peel
 peeled
 peeling
+peep
 peeps
 peer
 pegasus
@@ -12560,6 +12622,7 @@ persuader
 persuasion
 persuasive
 perth
+pertinent
 perusal
 peruse
 peruvian
@@ -12881,6 +12944,7 @@ polka
 poll
 polled
 pollen
+polling
 pollute
 pollution
 pollyanna
@@ -13048,6 +13112,7 @@ prank
 pranker
 prankish
 prankster
+pray
 prayer
 praying
 preach
@@ -13073,6 +13138,7 @@ precipitously
 precise
 precisely
 precision
+preclude
 precondition
 precook
 precursor
@@ -13159,6 +13225,7 @@ president
 presidential
 presoak
 press
+pressing
 pressure
 prestigious
 preston
@@ -13307,6 +13374,7 @@ prognosis
 program
 programme
 programmer
+programming
 progress
 progression
 progressive
@@ -13586,6 +13654,7 @@ puzzle
 puzzling
 pyle
 pyramid
+pyre
 pyromania
 python
 quack
@@ -13646,6 +13715,7 @@ quickly
 quickness
 quicksand
 quickstep
+quid
 quiet
 quietly
 quietness
@@ -14265,6 +14335,7 @@ repel
 repellent
 repent
 repentance
+repertoire
 repertory
 repetition
 repetitive
@@ -14418,6 +14489,7 @@ restlessness
 restoration
 restorative
 restore
+restrain
 restrained
 restraint
 restrict
@@ -14627,12 +14699,14 @@ ripple
 rippling
 riptide
 rise
+risen
 riser
 rising
 risk
 risky
 risotto
 ritalin
+ritual
 ritzy
 rival
 rivalry
@@ -14656,6 +14730,7 @@ roaring
 roast
 roasting
 robber
+robbery
 robbing
 robe
 robert
@@ -14722,6 +14797,7 @@ rotten
 rotting
 rotunda
 rouge
+rougher
 roughness
 roulette
 roun
@@ -14954,6 +15030,7 @@ satire
 satirical
 satirist
 satisfaction
+satisfactory
 satisfied
 satisfy
 satisfying
@@ -15153,7 +15230,9 @@ scrutinize
 scrutiny
 scuba
 scuff
+scuffle
 sculptor
+sculptural
 sculpture
 sculptured
 scum
@@ -15358,6 +15437,7 @@ seventies
 seventy
 several
 severally
+severance
 severe
 severity
 sewage
@@ -15835,6 +15915,7 @@ slicer
 slicing
 slick
 slid
+slide
 slider
 slideshow
 sliding
@@ -16005,6 +16086,7 @@ soaring
 sobbing
 sober
 soberly
+sobriety
 sociable
 socialism
 socialist
@@ -16256,6 +16338,7 @@ splice
 splicing
 splinter
 split
+splitting
 splotchy
 splurge
 spoil
@@ -16487,6 +16570,7 @@ steadfastly
 steadier
 steadily
 steadiness
+steady
 steadying
 steak
 steal
@@ -16954,6 +17038,7 @@ superstition
 superstitious
 supervise
 supervision
+supervisor
 supper
 supplant
 supple
@@ -17142,6 +17227,7 @@ syringe
 syrup
 system
 systematic
+systemic
 t-shirt
 tabasco
 tabby
@@ -17285,6 +17371,7 @@ teachable
 teacher
 teaching
 team
+teaming
 teamwork
 teapot
 tear
@@ -17309,6 +17396,7 @@ tedious
 teeming
 teen
 teens
+teeny
 teeth
 teleconference
 telegram
@@ -17323,6 +17411,7 @@ telling
 telltale
 telugu
 temblor
+temerity
 temp
 temper
 temperament
@@ -18118,6 +18207,7 @@ type
 typewriter
 typhoid
 typhoon
+typical
 typo
 typographical
 typography
@@ -18869,6 +18959,7 @@ utilization
 utilize
 utmost
 utopia
+utopian
 utter
 utterance
 uttering
@@ -19169,6 +19260,7 @@ volt
 voltage
 volume
 volumes
+voluminous
 voluntary
 volunteer
 voluptuous
@@ -19597,6 +19689,7 @@ wither
 withered
 withering
 withhold
+withholding
 within
 without
 withstand
