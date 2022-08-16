@@ -420,6 +420,7 @@ airline
 airman
 airship
 airspace
+airway
 airy
 aisle
 ajar
@@ -943,6 +944,7 @@ armenian
 armful
 armhole
 arming
+armistice
 armless
 armoire
 armor
@@ -1937,6 +1939,7 @@ bombardment
 bombastic
 bombay
 bomber
+bombshell
 bonanza
 bond
 bondage
@@ -2500,6 +2503,7 @@ candid
 candidate
 candied
 candle
+candlelight
 candlestick
 candor
 candy
@@ -2866,6 +2870,7 @@ charley
 charlie
 charm
 charmed
+charmer
 charming
 charon
 charred
@@ -3013,6 +3018,7 @@ chopper
 chopping
 choppy
 chops
+choral
 chord
 chore
 choreography
@@ -4252,6 +4258,7 @@ crunch
 cruncher
 crunching
 crunchy
+crusade
 crusader
 crushable
 crushed
@@ -5341,6 +5348,7 @@ dive
 diver
 diverge
 divergence
+divergent
 divers
 diverse
 diversification
@@ -5523,6 +5531,7 @@ drank
 draped
 drapery
 drastic
+draught
 draughts
 draw
 drawback
@@ -5629,6 +5638,7 @@ ducktail
 ducky
 duct
 dude
+dudley
 duel
 duet
 duffel
@@ -6641,6 +6651,7 @@ falcon
 fall
 fallacious
 fallacy
+fallback
 fallen
 falling
 fallout
@@ -7460,6 +7471,7 @@ full
 fullback
 fuller
 fullness
+fully
 fulton
 fumble
 fuming
@@ -8139,6 +8151,7 @@ gunner
 gunning
 gunpoint
 gunpowder
+gunshot
 gurgle
 gurgling
 guru
@@ -8288,6 +8301,7 @@ happiest
 happily
 happiness
 happy
+harass
 harassment
 harbinger
 harbor
@@ -8495,6 +8509,7 @@ helium
 hell
 hellenic
 heller
+hellish
 hello
 helm
 helmet
@@ -8523,6 +8538,7 @@ herbicide
 herbs
 hercules
 herd
+here
 hereafter
 hereby
 hereditary
@@ -8574,6 +8590,7 @@ hierarchy
 high
 higher
 highlight
+highly
 highness
 highway
 hijab
@@ -8611,6 +8628,7 @@ historic
 historical
 historically
 history
+hitch
 hither
 hitherto
 hitter
@@ -8990,6 +9008,7 @@ immoral
 immorality
 immorally
 immortal
+immortality
 immovable
 immovably
 immune
@@ -9162,6 +9181,7 @@ inclusive
 incoherent
 income
 incoming
+incomparable
 incompatible
 incompetence
 incompetent
@@ -9373,6 +9393,7 @@ inhospitable
 inhuman
 inhumane
 inhumanity
+inimical
 inimitable
 iniquity
 initial
@@ -9599,6 +9620,7 @@ intoxicating
 intoxication
 intractable
 intravenous
+intrepid
 intricate
 intricately
 intrigue
@@ -10076,6 +10098,7 @@ knotted
 know
 knowing
 knowingly
+knowledge
 knowledgeable
 known
 knuckle
@@ -10472,6 +10495,7 @@ lines
 lineup
 linger
 lingerie
+lingering
 lingo
 linguini
 linguist
@@ -10739,6 +10763,7 @@ mace
 macedonia
 macedonian
 mach
+machete
 machine
 machinery
 machinist
@@ -10905,6 +10930,7 @@ manslaughter
 mantel
 mantelpiece
 mantis
+mantle
 mantra
 manu
 manual
@@ -11424,6 +11450,7 @@ moderately
 moderation
 moderator
 modern
+modernism
 modernity
 modernization
 modernize
@@ -11451,6 +11478,7 @@ molar
 molasses
 mold
 molding
+mole
 molecular
 molecule
 molehill
@@ -11974,6 +12002,7 @@ nineveh
 ninja
 nintendo
 ninth
+nipple
 nirvana
 nitrate
 nitric
@@ -14338,6 +14367,7 @@ rampant
 rampart
 ramps
 ramrod
+ramshackle
 ranch
 rancher
 rancid
@@ -15303,6 +15333,7 @@ rolling
 rollover
 roma
 roman
+romance
 romanian
 romantic
 rome
@@ -16001,6 +16032,7 @@ several
 severally
 severance
 severe
+severely
 severity
 sewage
 sewer
@@ -17925,6 +17957,7 @@ tamer
 tamil
 tamper
 tandem
+tang
 tangent
 tangential
 tangible
@@ -19814,6 +19847,7 @@ vigilante
 vigor
 vigorous
 vigour
+viking
 vile
 villa
 village
@@ -19929,6 +19963,7 @@ vulgar
 vulgarity
 vulnerability
 vulnerable
+vulture
 wackiness
 wacky
 wad
