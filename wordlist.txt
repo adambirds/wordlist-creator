@@ -344,6 +344,7 @@ affront
 afghan
 afghani
 afield
+afire
 aflame
 afloat
 aflutter
@@ -938,6 +939,7 @@ argus
 arian
 arid
 aries
+aright
 arise
 aristocracy
 aristocrat
@@ -1233,6 +1235,7 @@ autopsy
 autumn
 autumnal
 auxiliary
+avail
 availability
 available
 avalanche
@@ -1872,6 +1875,7 @@ blog
 bloke
 blond
 blonde
+blood
 bloodbath
 blooded
 bloodless
@@ -1966,6 +1970,7 @@ bombardment
 bombastic
 bombay
 bomber
+bombing
 bombshell
 bonanza
 bond
@@ -5497,6 +5502,7 @@ domination
 dominican
 dominion
 dominoes
+donate
 donated
 donation
 donator
@@ -7030,6 +7036,7 @@ fireplace
 firepower
 fireside
 firestorm
+firewall
 firewood
 firing
 firm
@@ -7215,6 +7222,7 @@ flyover
 flypaper
 foam
 foaming
+focal
 focus
 focused
 focusing
@@ -7444,6 +7452,7 @@ freaking
 freaky
 freckled
 freckles
+free
 freebase
 freebee
 freebie
@@ -7731,6 +7740,7 @@ generality
 generalization
 generalize
 generalized
+generally
 generate
 generation
 generator
@@ -8870,6 +8880,7 @@ housewife
 housework
 housing
 houston
+hove
 hover
 howard
 howe
@@ -9286,6 +9297,7 @@ include
 included
 inclusion
 inclusive
+incognito
 incoherent
 income
 incoming
@@ -9850,6 +9862,7 @@ ishmael
 isis
 islam
 islamic
+islamism
 islamist
 island
 isle
@@ -12748,6 +12761,7 @@ overlay
 overload
 overlook
 overlord
+overly
 overlying
 overnight
 overpass
@@ -13476,6 +13490,7 @@ placard
 placate
 place
 placebo
+placement
 placenta
 placid
 placidly
@@ -14028,6 +14043,7 @@ proactive
 probability
 probable
 probably
+probate
 probation
 probe
 probing
@@ -15223,6 +15239,7 @@ response
 responsibility
 responsible
 responsiveness
+rest
 restart
 restaurant
 restaurateur
@@ -15958,6 +15975,7 @@ scotsman
 scott
 scottish
 scoundrel
+scour
 scoured
 scourge
 scouring
@@ -17080,6 +17098,7 @@ special
 specialist
 speciality
 specialization
+specialize
 specially
 specialty
 specie
