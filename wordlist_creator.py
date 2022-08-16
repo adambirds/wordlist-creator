@@ -28,7 +28,7 @@ for i in range(1, 13):
         if response.status_code == 200:
             words = response.json()
 
-            existing_words =[]
+            existing_words = []
             with open('wordlist.txt', 'r') as f:
                 for line in f:
                     existing_words.append(line.rstrip())
