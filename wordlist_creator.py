@@ -36,12 +36,12 @@ for i in range(1, 13):
             count = 0
             for word in words:
                 actual_word: str = word['word']
-                if actual_word not in existing_words:
-                    if actual_word.isalpha():
-                        count += 1
-                        existing_words.append(actual_word.lower())
-                else:
-                    continue
+                if actual_word.isalpha():
+                    if actual_word.lower() not in existing_words:
+                            count += 1
+                            existing_words.append(actual_word.lower())
+                    else:
+                        continue
 
             existing_words = sorted(existing_words)
 
