@@ -49,6 +49,7 @@ abounding
 about
 above
 abraham
+abram
 abrasion
 abrasive
 abreast
@@ -2017,6 +2018,7 @@ bored
 boredom
 borg
 boring
+born
 borne
 borough
 borrow
@@ -2485,6 +2487,7 @@ calvary
 calves
 calvin
 calzone
+camaraderie
 cambodian
 cambridge
 camcorder
@@ -2614,6 +2617,7 @@ caretaker
 carey
 cargo
 caribbean
+caribou
 caricature
 caring
 carless
@@ -4916,6 +4920,7 @@ despot
 despotic
 despotism
 dessert
+destabilize
 destination
 destiny
 destitute
@@ -4981,6 +4986,7 @@ deviation
 deviator
 device
 devil
+devilish
 devious
 devise
 devoid
@@ -6172,6 +6178,7 @@ enterprise
 enterprising
 entertain
 entertainer
+entertaining
 entertainment
 enthusiasm
 enthusiast
@@ -6325,6 +6332,7 @@ estonian
 estranged
 estrangement
 estrogen
+estuary
 etched
 etching
 eternal
@@ -6881,6 +6889,7 @@ fetus
 feud
 feudal
 fever
+feverish
 fiance
 fiasco
 fiat
@@ -8506,6 +8515,7 @@ heartbroken
 heartburn
 hearted
 heartfelt
+hearth
 heartily
 heartless
 hearts
@@ -8609,6 +8619,7 @@ heroics
 heroin
 heroine
 heroism
+herpes
 herr
 herring
 herschel
@@ -8656,6 +8667,7 @@ himalayan
 himself
 hind
 hinder
+hindi
 hindrance
 hindsight
 hindu
@@ -9425,6 +9437,7 @@ infrastructure
 infrequent
 infringe
 infringement
+infuse
 infusion
 ingenious
 ingeniously
@@ -10082,6 +10095,7 @@ keynesian
 keynote
 keyword
 khaki
+khmer
 kick
 kicker
 kicking
@@ -10471,6 +10485,7 @@ liberality
 liberally
 liberate
 liberated
+liberation
 liberian
 libertarian
 liberty
@@ -11008,6 +11023,7 @@ manufacture
 manufactured
 manufacturer
 manufacturing
+manure
 manuscript
 many
 maori
@@ -11372,6 +11388,7 @@ might
 mightily
 mighty
 migraine
+migrant
 migrate
 migration
 migratory
@@ -15596,6 +15613,7 @@ sagittarius
 said
 sail
 sailboat
+sailing
 sailor
 saint
 saintly
@@ -15955,6 +15973,7 @@ secondhand
 secondly
 secrecy
 secret
+secretariat
 secretary
 secretion
 secretive
@@ -16583,6 +16602,7 @@ slackness
 slacks
 slag
 slain
+slalom
 slam
 slander
 slanderous
@@ -16802,6 +16822,7 @@ snug
 snuggle
 snugly
 snugness
+soak
 soaking
 soap
 soar
@@ -17962,6 +17983,7 @@ sympathize
 sympathy
 symphonic
 symphony
+symposium
 symptom
 symptomatic
 synagogue
@@ -18127,6 +18149,7 @@ tavern
 tawdry
 tawny
 taxable
+taxation
 taxes
 taxi
 taxis
@@ -18142,6 +18165,7 @@ teaming
 teamwork
 teapot
 tear
+tearful
 tearing
 teary
 tease
@@ -18386,6 +18410,7 @@ thoughtless
 thousand
 thrall
 thrash
+thrashing
 thread
 threadbare
 threaded
@@ -18595,6 +18620,7 @@ torrential
 torrid
 torso
 tort
+tortilla
 tortoise
 tortuous
 torture
@@ -20279,6 +20305,7 @@ well
 wellington
 wellness
 wells
+welsh
 welshman
 welterweight
 wench
