@@ -470,6 +470,7 @@ alienate
 alienated
 aliens
 alight
+align
 aligned
 alignment
 alike
@@ -1946,6 +1947,7 @@ boisterous
 bok
 bold
 boldness
+bolshevik
 bolster
 bolt
 bomb
@@ -2010,6 +2012,7 @@ booty
 booze
 boozy
 borax
+bordeaux
 border
 bordered
 borderline
@@ -2465,6 +2468,7 @@ calculator
 calculus
 calendar
 calf
+cali
 caliber
 calibrate
 calibration
@@ -2645,6 +2649,7 @@ carport
 carriage
 carried
 carrier
+carroll
 carrot
 carrousel
 carry
@@ -2750,6 +2755,7 @@ cautious
 cavalcade
 cavalier
 cavalry
+cave
 caveat
 caveman
 cavendish
@@ -3155,6 +3161,7 @@ clarify
 clarinet
 clarion
 clarity
+clark
 clash
 clasp
 class
@@ -3507,6 +3514,7 @@ compactor
 companion
 companionship
 company
+comparable
 comparative
 comparatively
 compare
@@ -3620,6 +3628,7 @@ conclude
 concluding
 conclusion
 conclusive
+concoction
 concord
 concourse
 concrete
@@ -3815,6 +3824,7 @@ consummate
 consummation
 consumption
 contact
+contagion
 contagious
 contain
 container
@@ -3839,6 +3849,7 @@ contentment
 contents
 contest
 contestant
+contested
 context
 contextual
 contiguous
@@ -3899,6 +3910,7 @@ converging
 conversant
 conversation
 conversational
+converse
 conversion
 convert
 converter
@@ -4120,6 +4132,7 @@ craftsmanship
 craftwork
 crafty
 craggy
+craig
 cram
 cramp
 cramped
@@ -4524,6 +4537,7 @@ daydream
 daylight
 daylong
 dayroom
+days
 daytime
 dayton
 daze
@@ -5394,6 +5408,7 @@ diversity
 divert
 divest
 dividable
+divide
 divided
 dividend
 divider
@@ -7304,6 +7319,7 @@ fork
 forked
 forlorn
 form
+formal
 formaldehyde
 formality
 formally
@@ -7457,6 +7473,7 @@ friendliness
 friendly
 friendship
 fries
+frigate
 fright
 frighten
 frightening
@@ -7539,6 +7556,7 @@ funeral
 fungal
 fungi
 fungus
+funk
 funky
 funnel
 funny
@@ -8798,6 +8816,7 @@ horseshoe
 horticulture
 hose
 hosea
+hospice
 hospitable
 hospital
 hospitality
@@ -10317,6 +10336,7 @@ latte
 latter
 lattice
 latticed
+latvian
 laudable
 laugh
 laughable
@@ -12507,6 +12527,7 @@ organist
 organization
 organize
 organized
+organizer
 orgasm
 orgy
 orient
@@ -13233,6 +13254,7 @@ personally
 personification
 personnel
 perspective
+perspiration
 persuade
 persuaded
 persuader
@@ -13338,6 +13360,7 @@ pickup
 picnic
 pictorial
 picture
+pictured
 picturesque
 piece
 piecemeal
@@ -13544,6 +13567,7 @@ pointing
 pointless
 pointy
 poise
+poised
 poison
 poisoning
 poisonous
@@ -14095,6 +14119,7 @@ propose
 proposition
 proprietary
 proprietor
+propriety
 props
 propulsion
 prorate
@@ -15269,6 +15294,7 @@ revision
 revisionism
 revisionist
 revisit
+revitalize
 revivable
 revival
 revive
@@ -15450,6 +15476,7 @@ rome
 romeo
 romp
 roof
+roofing
 rookie
 room
 roommate
