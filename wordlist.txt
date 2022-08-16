@@ -192,6 +192,7 @@ activity
 actor
 actress
 acts
+actual
 actuality
 actually
 actuarial
@@ -206,6 +207,7 @@ adamant
 adams
 adapt
 adaptability
+adaptable
 adaptation
 adapter
 adaptive
@@ -860,6 +862,7 @@ aqueduct
 arab
 arabian
 arabic
+arable
 aragon
 aramaic
 arbiter
@@ -963,6 +966,7 @@ artery
 artful
 artfully
 arthur
+arthurian
 artichoke
 article
 articulate
@@ -1532,6 +1536,7 @@ bedtime
 beech
 beef
 beefy
+been
 beep
 beer
 beet
@@ -1962,6 +1967,7 @@ borderline
 bore
 bored
 boredom
+borg
 boring
 borne
 borough
@@ -2175,6 +2181,7 @@ broth
 brothel
 brother
 brotherhood
+brotherly
 brought
 brouhaha
 brow
@@ -2301,6 +2308,7 @@ burgeoning
 burglar
 burglary
 burgundy
+buried
 burlesque
 burly
 burn
@@ -3072,6 +3080,7 @@ classification
 classified
 classify
 classmate
+classy
 clatter
 clause
 claustrophobic
@@ -3088,6 +3097,7 @@ cleanse
 cleansing
 cleanup
 clear
+clearance
 clearer
 clearness
 cleat
@@ -3323,6 +3333,7 @@ combo
 combustible
 combustion
 come
+comeback
 comedian
 comedy
 comely
@@ -3355,6 +3366,7 @@ commencement
 commend
 commendable
 commendation
+commensurate
 comment
 commentary
 commentator
@@ -3465,6 +3477,7 @@ comprehension
 comprehensive
 comprehensively
 compress
+compressed
 compression
 compressor
 comprise
@@ -3936,6 +3949,7 @@ counting
 countless
 country
 countryman
+countryside
 county
 coupe
 couple
@@ -4123,9 +4137,11 @@ crook
 crooked
 croon
 crop
+cropped
 cropping
 cross
 crossbar
+crossed
 crossing
 crossover
 crossroads
@@ -4404,6 +4420,7 @@ deacon
 dead
 deadline
 deadlock
+deadly
 deadpan
 deaf
 deafening
@@ -4601,6 +4618,7 @@ delicacy
 delicate
 delicately
 delicious
+deliciously
 delight
 delighted
 delightful
@@ -4666,6 +4684,7 @@ denote
 denounce
 dens
 dense
+densely
 density
 dent
 dental
@@ -4733,6 +4752,7 @@ derisive
 derivation
 derive
 derived
+derogatory
 derry
 descend
 descendant
@@ -4899,6 +4919,7 @@ dictatorial
 dictatorship
 diction
 dictionary
+dictum
 didactic
 diehard
 diesel
@@ -5006,6 +5027,7 @@ disallow
 disappear
 disappearance
 disappearing
+disappoint
 disappointed
 disappointing
 disappointment
@@ -6239,6 +6261,7 @@ exactly
 exaggerate
 exaggerated
 exaggeration
+exaltation
 exalted
 examination
 examine
@@ -6803,6 +6826,7 @@ firmament
 firmly
 firmness
 first
+firstborn
 firstly
 fiscal
 fiscally
@@ -6975,6 +6999,7 @@ flyover
 flypaper
 foam
 foaming
+focus
 focused
 focusing
 focussed
@@ -7125,6 +7150,7 @@ forties
 fortification
 fortify
 fortitude
+fortnight
 fortress
 fortuitous
 fortunate
@@ -7177,6 +7203,7 @@ france
 franchise
 franciscan
 frank
+frankfurt
 franklin
 frankly
 frankness
@@ -7254,6 +7281,7 @@ frigidity
 frigidly
 frill
 fringe
+fringed
 frisbee
 frisk
 fritter
@@ -7333,6 +7361,7 @@ furnished
 furnishing
 furniture
 furor
+furore
 furrow
 furry
 further
@@ -7602,6 +7631,7 @@ glazing
 gleam
 gleaming
 glean
+glee
 gleeful
 glen
 glib
@@ -7624,6 +7654,7 @@ globe
 gloom
 gloomily
 gloomy
+gloria
 glorified
 glorifier
 glorify
@@ -8154,6 +8185,7 @@ harmonize
 harmony
 harness
 harp
+harper
 harping
 harpist
 harris
@@ -8457,6 +8489,7 @@ holiness
 holistic
 holland
 holler
+hollow
 holly
 hollywood
 holmes
@@ -8758,6 +8791,7 @@ illumination
 illusion
 illusive
 illusory
+illustrate
 illustration
 illustrative
 illustrator
@@ -8935,6 +8969,7 @@ incapable
 incarnate
 incarnation
 incendiary
+incense
 incensed
 incentive
 inception
@@ -9670,6 +9705,7 @@ jude
 judge
 judgement
 judgingly
+judgment
 judgmental
 judicial
 judiciary
@@ -9747,6 +9783,7 @@ keenly
 keenness
 keep
 keeper
+keeping
 keg
 kellogg
 kelp
@@ -10158,6 +10195,7 @@ libido
 libra
 librarian
 library
+libyan
 lice
 licence
 license
@@ -10467,6 +10505,7 @@ lustre
 lustrous
 lusty
 lute
+luther
 lutheran
 luxembourg
 luxuriant
@@ -10543,6 +10582,7 @@ magnolia
 magnum
 mahdi
 mahogany
+maia
 maid
 mail
 mailbox
@@ -10576,6 +10616,7 @@ malachi
 malady
 malaga
 malaise
+malaria
 malay
 malaysian
 male
@@ -10665,6 +10706,7 @@ manufactured
 manufacturer
 manuscript
 many
+maori
 map
 maple
 marathi
@@ -11083,6 +11125,7 @@ miscarriage
 miscellaneous
 miscellany
 mischief
+mischievous
 misconception
 misconduct
 misdemeanor
@@ -11242,6 +11285,7 @@ montgomery
 month
 monthly
 monument
+monumental
 moocher
 mood
 moodiness
@@ -11346,6 +11390,7 @@ mountain
 mountainous
 mounted
 mounting
+mourn
 mourner
 mournful
 mourning
@@ -12144,6 +12189,7 @@ outclass
 outcome
 outcry
 outdated
+outdo
 outdoor
 outdoors
 outer
@@ -12381,6 +12427,7 @@ palermo
 palestine
 palestinian
 palette
+pall
 palladium
 pallet
 palliative
@@ -12686,6 +12733,7 @@ penetration
 penguin
 penholder
 peninsula
+penis
 penitence
 penitent
 penitentiary
@@ -12931,6 +12979,7 @@ pinched
 pine
 pineapple
 ping
+pining
 pink
 pinky
 pinnacle
@@ -13056,6 +13105,7 @@ plop
 plot
 plough
 plow
+plowed
 ploy
 pluck
 plucked
@@ -13126,6 +13176,7 @@ politic
 political
 politically
 politician
+politics
 polity
 polk
 polka
@@ -13727,6 +13778,7 @@ prying
 psalm
 pseudonym
 psoriasis
+psych
 psyche
 psychedelic
 psychic
@@ -13842,6 +13894,7 @@ pushy
 pussy
 putative
 putdown
+putin
 putrid
 putt
 putter
@@ -14983,6 +15036,7 @@ roommate
 roomy
 roosevelt
 roost
+rooster
 root
 rooted
 rope
@@ -15139,6 +15193,7 @@ saint
 saintly
 saith
 sake
+salacious
 salad
 salami
 salaried
@@ -15776,6 +15831,7 @@ shiny
 ship
 shipbuilding
 shipment
+shipping
 shipwreck
 shipyard
 shiraz
@@ -16319,6 +16375,7 @@ socialism
 socialist
 socialization
 socialize
+socially
 society
 sociology
 sock
@@ -16396,6 +16453,7 @@ sooth
 soothe
 soothing
 sophisticated
+sophistication
 sophomore
 soprano
 sorcerer
@@ -16591,6 +16649,7 @@ sponsorship
 spontaneity
 spontaneous
 spoof
+spook
 spookily
 spooky
 spool
@@ -17182,6 +17241,7 @@ succour
 succulent
 succumb
 such
+suck
 sucker
 sucking
 suction
@@ -17621,6 +17681,7 @@ teamwork
 teapot
 tear
 tearing
+teary
 tease
 teaser
 teasing
@@ -17676,6 +17737,7 @@ tempt
 temptation
 tempting
 tenacious
+tenacity
 tenant
 tend
 tendency
@@ -18434,6 +18496,7 @@ twin
 twine
 twinge
 twinkle
+twinkling
 twins
 twirl
 twist
@@ -19855,6 +19918,7 @@ wife
 wifi
 wiggle
 wikipedia
+wild
 wildcard
 wildcat
 wilder
@@ -20138,6 +20202,7 @@ yonder
 yore
 york
 yorkshire
+yorktown
 young
 youngster
 your
@@ -20168,6 +20233,7 @@ zigzagged
 zinc
 zion
 zionism
+zionist
 zipfile
 zipper
 zipping
