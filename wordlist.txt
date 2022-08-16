@@ -642,6 +642,7 @@ anarchism
 anarchist
 anarchy
 anathema
+anatomical
 anatomist
 anatomy
 ancestor
@@ -1268,6 +1269,7 @@ awkward
 awning
 awoke
 awry
+axes
 axiom
 axis
 axle
@@ -1616,6 +1618,7 @@ belfast
 belief
 believable
 believe
+believer
 believing
 belittle
 bell
@@ -3103,6 +3106,7 @@ cinnamon
 cipher
 circle
 circling
+circuit
 circuitous
 circular
 circulate
@@ -3527,6 +3531,7 @@ compatibility
 compatible
 compatriot
 compel
+compelling
 compendium
 compensate
 compensation
@@ -5874,6 +5879,7 @@ educator
 edward
 edwardian
 eel
+eerie
 effect
 effective
 effectively
@@ -7004,6 +7010,7 @@ fireball
 firebrand
 firefighter
 firefly
+firehouse
 firelight
 fireman
 fireplace
@@ -7700,6 +7707,7 @@ geek
 geiger
 gelatin
 gem
+gemini
 gender
 genealogy
 general
@@ -9671,6 +9679,7 @@ intern
 internal
 internally
 international
+internment
 internship
 interpersonal
 interplay
@@ -10097,6 +10106,7 @@ kendall
 kennedy
 kennel
 kent
+kentucky
 kenya
 kenyan
 kept
@@ -10412,6 +10422,7 @@ ledge
 ledger
 leech
 leery
+leeward
 leeway
 left
 leftist
@@ -10624,6 +10635,7 @@ lisbon
 lisp
 list
 listed
+listen
 listener
 listening
 listing
@@ -11307,6 +11319,7 @@ menopause
 menstrual
 ment
 mental
+mentality
 mention
 mentor
 menu
@@ -12048,6 +12061,7 @@ net
 nether
 netted
 netting
+network
 networking
 neural
 neurology
@@ -12488,6 +12502,7 @@ optimize
 optimum
 option
 optional
+opulence
 opulent
 opulently
 opus
@@ -12521,6 +12536,7 @@ oregonian
 organ
 organic
 organically
+organisation
 organise
 organism
 organist
@@ -13609,6 +13625,7 @@ polo
 poly
 polyester
 polygamist
+polygamy
 polygon
 polygraph
 polymer
@@ -13641,6 +13658,7 @@ pops
 popsicle
 populace
 popular
+popularity
 popularly
 populate
 population
@@ -15232,11 +15250,13 @@ retirement
 retiring
 retold
 retool
+retort
 retorted
 retouch
 retrace
 retract
 retracted
+retraction
 retrain
 retread
 retreat
@@ -16510,6 +16530,7 @@ sincerity
 sinclair
 sine
 sinful
+sing
 singapore
 singaporean
 singer
@@ -16995,6 +17016,7 @@ spaniard
 spaniel
 spanish
 spank
+spanking
 spar
 spare
 sparing
@@ -17993,6 +18015,7 @@ swung
 sycamore
 sycophantic
 sydney
+syllable
 syllabus
 sylvia
 symbiotic
