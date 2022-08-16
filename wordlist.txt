@@ -565,6 +565,7 @@ ambiguity
 ambiguous
 ambition
 ambitious
+ambivalence
 ambivalent
 ambrose
 ambulance
@@ -2205,6 +2206,7 @@ britannia
 british
 briton
 brittle
+broad
 broadband
 broadcast
 broadcaster
@@ -4245,6 +4247,7 @@ cropping
 cross
 crossbar
 crossed
+crossfire
 crossing
 crossover
 crossroads
@@ -4654,6 +4657,7 @@ defendant
 defender
 defense
 defenseless
+defensible
 defensive
 defensively
 defer
@@ -7522,6 +7526,7 @@ fundamentalism
 fundamentalist
 funding
 fundraiser
+funeral
 fungal
 fungi
 fungus
@@ -7929,6 +7934,7 @@ gout
 govern
 governance
 governess
+governing
 government
 governor
 governorship
@@ -9139,6 +9145,7 @@ imprecise
 impregnable
 impress
 impressed
+impression
 impressionable
 impressive
 imprint
@@ -9241,6 +9248,7 @@ inconsistent
 incontinence
 inconvenience
 inconvenient
+incorporate
 incorporated
 incorporation
 incorrect
@@ -9396,6 +9404,7 @@ inflation
 inflection
 inflexible
 inflict
+infliction
 inflow
 influence
 influential
@@ -9790,6 +9799,7 @@ isolated
 isolating
 isolation
 isotope
+israeli
 israelite
 issuance
 issue
@@ -10248,6 +10258,7 @@ languid
 languish
 languishing
 languor
+lanier
 lankiness
 lanky
 lantern
@@ -10710,6 +10721,7 @@ lottery
 lotus
 loud
 loudly
+loudspeaker
 lounge
 lousy
 louvre
@@ -11142,6 +11154,7 @@ mature
 maturely
 maturing
 maturity
+mauritius
 mausoleum
 mauve
 maverick
@@ -11557,6 +11570,7 @@ monaco
 monarch
 monarchy
 monastery
+monastic
 monday
 monde
 monetary
@@ -11667,6 +11681,7 @@ morton
 mortuary
 mosaic
 moses
+moslem
 mosque
 mosquito
 moss
@@ -12605,6 +12620,7 @@ overall
 overalls
 overarch
 overarching
+overbearing
 overbid
 overbill
 overbite
@@ -13295,6 +13311,7 @@ piazza
 picard
 pick
 picked
+picker
 pickering
 picket
 picking
@@ -16021,6 +16038,7 @@ senatorial
 send
 sender
 seneca
+senegal
 senile
 senior
 seniority
@@ -16197,6 +16215,7 @@ sheath
 sheathed
 shed
 shedding
+sheen
 sheep
 sheepish
 sheepskin
@@ -16363,6 +16382,7 @@ sicilian
 sick
 sickening
 sicker
+sickle
 sickly
 sickness
 side
@@ -17729,6 +17749,7 @@ sumerian
 summarily
 summarize
 summary
+summation
 summer
 summit
 summon
