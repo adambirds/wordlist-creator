@@ -227,6 +227,7 @@ adhere
 adherence
 adherent
 adhesion
+adhesive
 adieu
 adjacent
 adjective
@@ -1034,6 +1035,7 @@ assembly
 assent
 assert
 asserted
+assertion
 assertive
 asses
 assess
@@ -1198,6 +1200,7 @@ autonomy
 autopilot
 autumn
 autumnal
+auxiliary
 availability
 available
 avalanche
@@ -1477,6 +1480,7 @@ batboy
 batch
 bath
 bathe
+bathing
 bathroom
 bathtub
 batman
@@ -2033,6 +2037,7 @@ bowl
 bowler
 bowling
 boxcar
+boxed
 boxer
 boxing
 boxlike
@@ -2104,6 +2109,7 @@ breathed
 breather
 breathing
 breathless
+breathtaking
 bred
 breech
 breeches
@@ -3271,6 +3277,7 @@ coin
 coinage
 coincide
 coincidence
+coincidental
 coke
 cola
 cold
@@ -3550,6 +3557,7 @@ concurrent
 concussion
 condemn
 condemnation
+condemned
 condensation
 condense
 condensed
@@ -3899,6 +3907,7 @@ coronation
 coroner
 corporal
 corporate
+corporation
 corporeal
 corps
 corpse
@@ -4152,6 +4161,7 @@ croak
 croatian
 crochet
 crock
+crocodile
 cromwell
 crony
 crook
@@ -4315,6 +4325,7 @@ customize
 customs
 cut
 cute
+cutoff
 cutter
 cutthroat
 cutting
@@ -4645,6 +4656,7 @@ delight
 delighted
 delightful
 delilah
+delinquency
 delinquent
 delirious
 delirium
@@ -4772,6 +4784,7 @@ dereliction
 derision
 derisive
 derivation
+derivative
 derive
 derived
 derogatory
@@ -4914,6 +4927,7 @@ diabolical
 diagnose
 diagnoses
 diagnosis
+diagnostic
 diagnostics
 diagonal
 diagram
@@ -5244,6 +5258,7 @@ distill
 distillation
 distinct
 distinction
+distinctive
 distinctly
 distinguish
 distinguishable
@@ -5285,6 +5300,7 @@ divest
 dividable
 divided
 dividend
+divider
 dividers
 dividing
 divination
@@ -5580,6 +5596,7 @@ dumping
 dumpling
 dumps
 dumpster
+dunbar
 duncan
 dune
 dung
@@ -6238,6 +6255,7 @@ europe
 european
 euthanasia
 evacuate
+evacuated
 evacuee
 evade
 evaluate
@@ -7171,6 +7189,7 @@ formulate
 formulation
 fornication
 forsake
+forsooth
 fort
 forte
 forth
@@ -7375,6 +7394,7 @@ function
 functional
 functionality
 functioning
+fund
 fundamental
 fundamentalism
 fundamentalist
@@ -7997,6 +8017,7 @@ guarded
 guardian
 guardianship
 gubernatorial
+guelph
 guerilla
 guerrilla
 guess
@@ -8301,6 +8322,7 @@ headlamp
 headless
 headline
 headlock
+headlong
 headphone
 headpiece
 headquarters
@@ -8332,6 +8354,7 @@ hearse
 heart
 heartache
 heartbeat
+heartbreak
 heartbreaking
 heartbroken
 heartburn
@@ -8452,6 +8475,7 @@ heyday
 hiatus
 hibernation
 hiccup
+hick
 hickory
 hidden
 hide
@@ -8546,6 +8570,7 @@ homepage
 homer
 homeschool
 homesick
+homestead
 homeward
 homework
 homicidal
@@ -8912,6 +8937,7 @@ impersonal
 impersonation
 impertinence
 impervious
+impetuous
 impetus
 impious
 impish
@@ -9129,6 +9155,7 @@ indulge
 indulgence
 indulgent
 indus
+industrial
 industrious
 industry
 ineffable
@@ -9772,6 +9799,7 @@ jump
 jumper
 jumping
 jumpstart
+jumpy
 junction
 juncture
 june
@@ -9928,6 +9956,7 @@ knowing
 knowingly
 knowledgeable
 known
+knuckle
 koala
 kodak
 kooky
@@ -10364,6 +10393,7 @@ litigate
 litigation
 litigator
 litmus
+litre
 litter
 little
 liturgical
@@ -10777,6 +10807,7 @@ maricopa
 marigold
 marijuana
 marina
+marinade
 marine
 mariner
 marion
@@ -10910,6 +10941,7 @@ maze
 mccormick
 mckinley
 meadow
+meager
 meagre
 meal
 mean
@@ -10969,6 +11001,7 @@ melamine
 melancholy
 melanoma
 melbourne
+meld
 melee
 mellow
 melodic
@@ -11006,6 +11039,7 @@ mental
 mention
 mentor
 menu
+meow
 mercantile
 mercenary
 merchandise
@@ -11076,6 +11110,7 @@ microcosm
 microphone
 microscope
 microscopic
+microwave
 midair
 midas
 midday
@@ -11088,6 +11123,7 @@ midfield
 midget
 midnight
 midpoint
+midst
 midsummer
 midterm
 midway
@@ -11282,6 +11318,7 @@ mollusk
 molten
 mom
 moment
+momentarily
 momentary
 momentous
 momentum
@@ -11515,6 +11552,7 @@ murky
 murmur
 murmuring
 murphy
+murray
 muscle
 muscled
 muscular
@@ -11543,6 +11581,7 @@ muster
 mustiness
 musty
 mutable
+mutant
 mutate
 mutation
 mute
@@ -11613,6 +11652,7 @@ natal
 natchez
 nation
 national
+nationalisation
 nationalism
 nationalist
 nationalistic
@@ -12162,6 +12202,7 @@ orchard
 orchestrate
 orchid
 ordained
+ordeal
 order
 ordered
 ordering
@@ -12902,6 +12943,7 @@ persuaded
 persuader
 persuasion
 persuasive
+pertain
 perth
 pertinent
 perusal
@@ -13096,6 +13138,7 @@ planter
 planting
 plasma
 plaster
+plastered
 plastic
 plate
 plateau
@@ -13433,6 +13476,7 @@ precise
 precisely
 precision
 preclude
+precocious
 precondition
 precook
 precursor
@@ -14262,6 +14306,7 @@ rebuttal
 recalcitrant
 recall
 recant
+recap
 recapture
 recast
 recede
@@ -15080,6 +15125,7 @@ rolling
 rollover
 roma
 roman
+romanian
 romantic
 rome
 romeo
@@ -15162,6 +15208,7 @@ ruefully
 ruffian
 ruffled
 rug
+rugged
 ruin
 ruined
 ruinous
@@ -15363,6 +15410,7 @@ saturday
 saturn
 sauce
 saucepan
+saucer
 sauciness
 saucy
 saudi
@@ -15414,6 +15462,7 @@ scam
 scan
 scandal
 scandalous
+scandinavia
 scandinavian
 scanner
 scanning
@@ -15794,6 +15843,7 @@ shake
 shakedown
 shaken
 shaker
+shakespeare
 shakespearean
 shakily
 shakiness
@@ -17470,6 +17520,7 @@ susceptible
 sushi
 suspect
 suspend
+suspended
 suspense
 suspension
 suspicion
@@ -17577,6 +17628,7 @@ synapse
 sync
 synchronization
 synchronize
+syndicate
 syndication
 syndrome
 synergy
@@ -17769,6 +17821,7 @@ teen
 teens
 teeny
 teeth
+telecast
 teleconference
 telegram
 telegraph
@@ -17826,6 +17879,7 @@ tenure
 tepid
 term
 terminal
+terminate
 termination
 terminator
 terminology
@@ -18300,6 +18354,7 @@ translate
 translation
 translator
 translucent
+transmission
 transmit
 transmitter
 transnational
