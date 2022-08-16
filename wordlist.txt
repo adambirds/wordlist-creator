@@ -304,6 +304,7 @@ advise
 advised
 adviser
 advisory
+advocacy
 advocate
 aegean
 aeration
@@ -1754,6 +1755,7 @@ biological
 biology
 biomass
 biomedical
+biopsy
 biotech
 biotechnology
 bipolar
@@ -4482,12 +4484,15 @@ dab
 dad
 daddy
 daffodil
+daft
 dagger
 daily
 daintily
 dainty
 dairy
+dais
 daisy
+dakota
 dale
 dallying
 dalton
@@ -5051,6 +5056,7 @@ devouring
 devout
 devoutly
 dewey
+dewy
 dexterity
 dexterous
 diabetes
@@ -7585,6 +7591,7 @@ fullback
 fuller
 fullness
 fully
+fulness
 fulton
 fumble
 fuming
@@ -8224,6 +8231,7 @@ grumbling
 grumbly
 grump
 grumpily
+grumpy
 grunge
 grunt
 guacamole
@@ -8848,6 +8856,7 @@ hopelessly
 hopi
 hopkins
 hopper
+hopping
 horde
 horizon
 hormone
@@ -9670,6 +9679,7 @@ insurer
 insurgency
 insurgent
 insurmountable
+insurrection
 intact
 intake
 intangible
@@ -11868,6 +11878,7 @@ muffled
 mug
 mugging
 muhammad
+mulatto
 mulberry
 mulch
 mule
@@ -12879,6 +12890,7 @@ paddock
 paddy
 padlock
 pagan
+paganism
 page
 pageant
 pager
@@ -13315,6 +13327,7 @@ perplexity
 perry
 persecute
 persecution
+perseus
 perseverance
 persevere
 persevering
@@ -13603,6 +13616,7 @@ plexiglas
 pliable
 plight
 plod
+plodding
 plop
 plot
 plough
@@ -14215,6 +14229,7 @@ propriety
 props
 propulsion
 prorate
+prorogation
 prosaic
 prose
 prosecute
@@ -14927,6 +14942,7 @@ reggae
 regime
 regimen
 regiment
+regimental
 regina
 region
 regional
@@ -15270,6 +15286,7 @@ respondent
 response
 responsibility
 responsible
+responsive
 responsiveness
 rest
 restart
@@ -15698,6 +15715,7 @@ rut
 ruth
 rutherford
 ruthless
+rwandan
 ryder
 rôle
 sabbath
@@ -17961,6 +17979,7 @@ supple
 supplement
 supplemental
 supplementary
+supplementation
 supplication
 supplier
 supply
@@ -18352,6 +18371,7 @@ temerity
 temp
 temper
 temperament
+temperamental
 temperance
 temperate
 temperature
