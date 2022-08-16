@@ -5894,6 +5894,7 @@ ecumenical
 eddy
 eden
 edge
+edged
 edginess
 edging
 edgy
@@ -7486,6 +7487,7 @@ freely
 freeman
 freemason
 freeness
+freer
 freestyle
 freeware
 freeway
@@ -9133,6 +9135,7 @@ imitation
 immaculate
 immaterial
 immature
+immeasurable
 immeasurably
 immediacy
 immediate
@@ -10052,6 +10055,7 @@ joshua
 jot
 jour
 journal
+journalism
 journalist
 journalistic
 journey
@@ -10399,6 +10403,7 @@ latent
 later
 lateral
 latest
+latex
 lather
 latin
 latina
@@ -10828,6 +10833,7 @@ loth
 lotion
 lots
 lottery
+lotto
 lotus
 loud
 loudly
@@ -11129,6 +11135,7 @@ mapping
 marathi
 marathon
 marauding
+marble
 marbled
 marbles
 marbling
@@ -11709,6 +11716,7 @@ monitoring
 monk
 monkey
 monkhood
+mono
 monogamy
 monogram
 monolithic
@@ -15777,6 +15785,7 @@ saleswoman
 salient
 saline
 salisbury
+saliva
 sallow
 sally
 salmon
@@ -16653,6 +16662,7 @@ sinner
 sinuous
 sinus
 sion
+sioux
 sip
 siphon
 sire
@@ -17717,6 +17727,7 @@ stroll
 stroller
 strong
 strongbox
+stronghold
 strongly
 strongman
 struck
@@ -17903,6 +17914,7 @@ suggest
 suggestion
 suggestive
 suicidal
+suicide
 suing
 suit
 suitable
@@ -18377,6 +18389,7 @@ temperate
 temperature
 tempered
 tempest
+tempestuous
 templar
 template
 temple
@@ -18553,6 +18566,7 @@ this
 thither
 thomas
 thompson
+thomson
 thong
 thor
 thorn
