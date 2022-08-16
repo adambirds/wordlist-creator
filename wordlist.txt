@@ -412,6 +412,7 @@ ailing
 ailment
 aim
 aimless
+ainsworth
 airborne
 aircraft
 airfield
@@ -425,6 +426,7 @@ airy
 aisle
 ajar
 ajax
+akin
 alabama
 alabaster
 alacrity
@@ -1183,6 +1185,7 @@ aurora
 auspices
 auspicious
 austere
+austerity
 australian
 austrian
 authentic
@@ -1485,6 +1488,7 @@ basement
 bases
 bash
 bashful
+basic
 basically
 basics
 basil
@@ -1535,6 +1539,7 @@ beam
 beaming
 bean
 bear
+bearable
 beard
 bearded
 bearer
@@ -1841,6 +1846,7 @@ bloating
 blob
 bloc
 block
+blockade
 blockage
 blockbuster
 blocked
@@ -2198,6 +2204,7 @@ briton
 brittle
 broadband
 broadcast
+broadcaster
 broadcasting
 broaden
 broadening
@@ -2358,6 +2365,7 @@ burgundy
 buried
 burlesque
 burly
+burmese
 burn
 burned
 burner
@@ -2431,6 +2439,7 @@ cadillac
 cadmium
 cadre
 caesar
+cafeteria
 café
 cage
 cahoots
@@ -2523,6 +2532,7 @@ cannot
 canoe
 canola
 canon
+canonical
 canonization
 canopener
 canopy
@@ -3910,6 +3920,7 @@ cooper
 cooperation
 cooperative
 coordinate
+coordinated
 coordination
 copartner
 cope
@@ -4035,6 +4046,7 @@ country
 countryman
 countryside
 county
+coup
 coupe
 couple
 coupled
@@ -4477,6 +4489,7 @@ darwinian
 darwinism
 dash
 dashboard
+dashed
 dashing
 dastardly
 data
@@ -5009,6 +5022,7 @@ dice
 dicey
 dichotomy
 dicing
+dick
 dictate
 dictation
 dictator
@@ -7411,6 +7425,7 @@ fret
 fretful
 fretted
 freud
+freudian
 friar
 friction
 friday
@@ -8460,6 +8475,7 @@ health
 healthful
 healthy
 heap
+heaps
 hear
 heard
 hearing
@@ -9217,6 +9233,7 @@ incontinence
 inconvenience
 inconvenient
 incorporated
+incorporation
 incorrect
 incorrigible
 increase
@@ -9848,6 +9865,7 @@ jeremiah
 jericho
 jerk
 jerky
+jerry
 jersey
 jerusalem
 jesse
@@ -9863,6 +9881,7 @@ jeweler
 jewelry
 jewess
 jewish
+jewry
 jibe
 jiffy
 jigsaw
@@ -10055,6 +10074,7 @@ kill
 killer
 killing
 kiln
+kilo
 kilobyte
 kilogram
 kilometer
@@ -13349,6 +13369,7 @@ plague
 plaid
 plain
 plainly
+plaintiff
 plaintive
 plan
 plane
@@ -14130,6 +14151,7 @@ public
 publication
 publicist
 publicity
+publicize
 publicly
 publish
 publisher
@@ -15574,6 +15596,7 @@ same
 sami
 samoa
 sample
+sampler
 sampling
 samson
 samuel
@@ -15794,6 +15817,7 @@ scorpio
 scorpion
 scotch
 scots
+scotsman
 scott
 scottish
 scoundrel
@@ -16606,6 +16630,7 @@ slugger
 sluggish
 slum
 slumber
+slump
 slung
 slur
 slurp
@@ -16757,6 +16782,7 @@ sodium
 sodom
 sodomy
 sofa
+soft
 softball
 soften
 softened
@@ -16914,6 +16940,7 @@ specific
 specifically
 specification
 specificity
+specify
 specimen
 specious
 speck
@@ -18544,6 +18571,7 @@ toughness
 tour
 touring
 tourism
+tourist
 tournament
 tourney
 tout
@@ -20206,6 +20234,7 @@ welshman
 welterweight
 wench
 went
+were
 werewolf
 wert
 wesley
@@ -20626,6 +20655,7 @@ youth
 youthful
 yoyo
 yuan
+yule
 yuma
 yummy
 zany
