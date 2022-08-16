@@ -14,11 +14,11 @@ for i in range(1, 13):
     for j in range(1, 5 + 1):
         params = {
             'hasDictionaryDef': 'true',
-            'minCorpusCount': '5000',
+            'minCorpusCount': '1000',
             'maxCorpusCount': '-1',
             'minDictionaryCount': '5',
             'maxDictionaryCount': '-1',
-            'minLength': '4',
+            'minLength': '3',
             'maxLength': '-1',
             'limit': '500',
             'api_key': api_key
