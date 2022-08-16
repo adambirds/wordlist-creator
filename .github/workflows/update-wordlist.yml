@@ -23,6 +23,9 @@ jobs:
         env:
           WORDNIK_API_KEY: ${{ secrets.WORDNIK_API_KEY }}
       
+      - name: run clean_wordlist.py
+        run: python3 ./clean_wordlist.py
+      
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Updated wordlist.txt with new words.
