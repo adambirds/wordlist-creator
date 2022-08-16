@@ -2073,6 +2073,7 @@ bottling
 bottom
 bottomed
 bottomless
+boudoir
 bough
 bought
 boulder
@@ -3287,6 +3288,7 @@ close
 closed
 closely
 closeness
+closer
 closet
 closeted
 closing
@@ -3704,6 +3706,7 @@ confer
 conference
 confess
 confession
+confessional
 confessor
 confetti
 confidant
@@ -7613,6 +7616,7 @@ fund
 fundamental
 fundamentalism
 fundamentalist
+funded
 funding
 fundraiser
 funeral
@@ -8098,6 +8102,7 @@ grasshopper
 grassy
 grate
 grateful
+gratefully
 gratification
 gratified
 gratify
@@ -8662,6 +8667,7 @@ helping
 helpless
 helplessness
 helpline
+hemisphere
 hemlock
 hemoglobin
 hemorrhage
@@ -9018,6 +9024,7 @@ husky
 hussein
 hustle
 hut
+hutu
 huxley
 hybrid
 hyderabad
@@ -10567,6 +10574,7 @@ lettered
 lettering
 lettuce
 leukemia
+levee
 level
 leveling
 lever
@@ -11325,6 +11333,7 @@ measurement
 measuring
 meat
 meaty
+mecca
 mechanic
 mechanical
 mechanically
@@ -12392,6 +12401,7 @@ oblige
 obliged
 obliging
 oblique
+obliquely
 obliterate
 oblivion
 oblivious
@@ -13654,6 +13664,7 @@ plumb
 plumber
 plumbing
 plume
+plummet
 plump
 plunder
 plunge
@@ -18265,6 +18276,7 @@ talker
 talking
 tall
 tallow
+tally
 talmud
 talon
 tamale
