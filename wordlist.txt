@@ -39,6 +39,7 @@ abominable
 abomination
 aboriginal
 aborigines
+abort
 aborted
 abortion
 abortive
@@ -64,6 +65,7 @@ absolution
 absolve
 absorb
 absorbed
+absorbing
 absorption
 abstain
 abstinence
@@ -648,6 +650,7 @@ angola
 angrily
 angriness
 angry
+angst
 anguish
 anguished
 angular
@@ -956,6 +959,7 @@ articulated
 articulation
 artifact
 artifice
+artificial
 artificially
 artillery
 artisan
@@ -1189,6 +1193,7 @@ avocado
 avoid
 avoidable
 avoidance
+avon
 avowed
 await
 awake
@@ -1366,6 +1371,7 @@ banter
 bantu
 baptism
 baptist
+barbados
 barbarian
 barbaric
 barbarism
@@ -1857,6 +1863,7 @@ bogged
 boggle
 bogus
 bohemia
+bohemian
 boil
 boiled
 boiler
@@ -1925,6 +1932,7 @@ bootlace
 bootleg
 boots
 booty
+booze
 boozy
 borax
 border
@@ -1982,6 +1990,7 @@ boutique
 bovine
 bowed
 bowel
+bowels
 bower
 bowery
 bowing
@@ -1997,6 +2006,7 @@ boyfriend
 boyhood
 boyish
 brace
+braced
 bracelet
 braces
 bracing
@@ -2180,6 +2190,7 @@ buck
 bucked
 bucket
 bucking
+buckingham
 buckle
 buckling
 buckshot
@@ -2457,6 +2468,7 @@ capitalize
 capitol
 capitulation
 capped
+capping
 caprice
 capricious
 capricorn
@@ -2632,6 +2644,7 @@ caveat
 caveman
 cavendish
 cavern
+cavernous
 caviar
 cavity
 cayenne
@@ -2642,6 +2655,7 @@ cecilia
 cedar
 cede
 ceiling
+celebrate
 celebrated
 celebration
 celebrity
@@ -2714,6 +2728,7 @@ chalice
 chalk
 challenge
 challenged
+challenger
 challenging
 chamber
 chamomile
@@ -2796,6 +2811,7 @@ check
 checked
 checker
 checkered
+checkers
 checking
 checkout
 checkpoint
@@ -3174,6 +3190,7 @@ coding
 coeditor
 coefficient
 coerce
+coercion
 coexist
 coexistence
 coffee
@@ -3510,6 +3527,7 @@ configuration
 configure
 confine
 confined
+confinement
 confines
 confining
 confirm
@@ -4004,6 +4022,7 @@ creed
 creek
 creep
 creeping
+creeps
 creepy
 creme
 creole
@@ -4516,6 +4535,7 @@ degree
 dehydrate
 dehydrated
 dehydration
+deign
 deity
 dejected
 dejection
@@ -4634,6 +4654,7 @@ deplored
 deploy
 deployment
 deport
+deportation
 deportment
 depose
 deposit
@@ -4765,6 +4786,7 @@ devalue
 devastate
 devastating
 devastation
+develop
 developer
 developing
 development
@@ -4855,6 +4877,7 @@ dig
 digest
 digestion
 digestive
+digger
 digging
 digit
 digital
@@ -5573,6 +5596,7 @@ ebony
 ebook
 ecard
 eccentric
+eccentricity
 ecclesiastical
 echelon
 echo
@@ -5696,6 +5720,7 @@ elevating
 elevation
 elevator
 eleven
+eleventh
 elf
 elicit
 eligibility
@@ -5924,6 +5949,7 @@ entering
 enterprise
 enterprising
 entertain
+entertainer
 entertainment
 enthusiast
 enthusiastic
@@ -6263,6 +6289,7 @@ expenses
 expensive
 experience
 experienced
+experiential
 experiment
 experimental
 experimentation
@@ -6283,6 +6310,7 @@ exploit
 exploitation
 exploration
 explore
+explorer
 exploring
 explosion
 explosive
@@ -6399,6 +6427,7 @@ fain
 faint
 fainting
 fair
+fairbanks
 fairly
 fairness
 fairway
@@ -7073,6 +7102,7 @@ frailty
 frame
 framework
 framing
+franc
 france
 franchise
 franciscan
@@ -7083,6 +7113,7 @@ frankness
 frantic
 fraser
 fraternal
+fraternity
 fraud
 fraudulent
 fraught
@@ -7092,6 +7123,7 @@ fraying
 frays
 freak
 freaking
+freaky
 freckled
 freckles
 freebase
@@ -7343,12 +7375,14 @@ gaunt
 gauntlet
 gauze
 gave
+gavel
 gawk
 gayety
 gayly
 gaze
 gazing
 gear
+gearbox
 gecko
 geek
 geiger
@@ -8346,6 +8380,7 @@ holly
 hollywood
 holmes
 holster
+holy
 homage
 home
 homecoming
@@ -8387,6 +8422,7 @@ hoof
 hook
 hooked
 hooker
+hookup
 hoop
 hoops
 hoosier
@@ -8627,6 +8663,7 @@ illicit
 illicitly
 illinois
 illiteracy
+illiterate
 illogical
 illuminate
 illuminated
@@ -8653,6 +8690,7 @@ imbecile
 imitate
 imitation
 immaculate
+immaterial
 immature
 immeasurably
 immediacy
@@ -8877,6 +8915,7 @@ indelible
 indemnify
 indemnity
 independence
+independent
 independently
 indestructible
 indeterminate
@@ -8906,6 +8945,7 @@ indirect
 indirectly
 indiscreet
 indiscretion
+indiscriminate
 indispensable
 indisputable
 indistinct
@@ -9263,6 +9303,7 @@ introduction
 introductory
 introspection
 introspective
+intrude
 intruder
 intrusion
 intrusive
@@ -10069,9 +10110,11 @@ limelight
 limes
 limestone
 limit
+limitation
 limited
 limiting
 limitless
+limp
 limping
 limpness
 lincoln
@@ -10182,6 +10225,7 @@ locket
 lockout
 loco
 locus
+locust
 lodge
 lodging
 lodgings
@@ -10391,6 +10435,7 @@ magnum
 mahdi
 mahogany
 maid
+mail
 mailbox
 mailed
 mailer
@@ -10871,8 +10916,10 @@ milk
 milking
 mill
 milled
+millennium
 miller
 millimeter
+milling
 million
 millionaire
 millionth
@@ -10905,6 +10952,7 @@ ministerial
 ministry
 minority
 minstrel
+mint
 minus
 minuscule
 minute
@@ -10965,6 +11013,7 @@ mitigate
 mitigation
 mitt
 mitzvah
+mixed
 mixer
 mixture
 moan
@@ -11554,6 +11603,8 @@ nonpartisan
 nonprofit
 nonsense
 nonsensical
+nonstop
+nonviolence
 nonviolent
 nook
 noon
@@ -11928,6 +11979,7 @@ originate
 origination
 orinoco
 orion
+orleans
 ornament
 ornamental
 ornate
@@ -12766,8 +12818,10 @@ pique
 piracy
 pirate
 piss
+pissed
 pistachio
 pistol
+piston
 pita
 pitch
 pitched
@@ -12788,6 +12842,7 @@ pivot
 pivotal
 placard
 placate
+placebo
 placenta
 placid
 placidly
@@ -12844,6 +12899,7 @@ playroom
 playset
 plaything
 playtime
+playwright
 plaza
 plea
 plead
@@ -13727,6 +13783,7 @@ quintessential
 quintet
 quintuple
 quirk
+quirky
 quit
 quite
 quits
@@ -13871,6 +13928,7 @@ rationalization
 rationalize
 rationally
 rattle
+rattlesnake
 rattling
 raucous
 raunchy
@@ -14664,6 +14722,7 @@ rigged
 rigging
 right
 righteous
+righteousness
 rightful
 rightfully
 rightly
@@ -14831,6 +14890,7 @@ rubbing
 rubbish
 rubble
 rubdown
+rubicon
 rubric
 ruby
 ruckus
@@ -14968,6 +15028,7 @@ sampling
 samson
 samuel
 samurai
+sanctified
 sanctify
 sanctimonious
 sanction
@@ -15038,6 +15099,7 @@ saturate
 saturated
 saturation
 saturday
+saturn
 sauce
 saucepan
 sauciness
@@ -15594,6 +15656,7 @@ shopping
 shoptalk
 shore
 shoring
+shorn
 short
 shortage
 shortcake
@@ -15946,6 +16009,7 @@ sloppily
 sloppy
 slot
 sloth
+slouch
 slouching
 slouchy
 slovak
@@ -16241,6 +16305,7 @@ spearfish
 spearhead
 spearman
 spearmint
+spec
 special
 specialist
 speciality
@@ -16334,6 +16399,7 @@ splatter
 spleen
 splendid
 splendor
+splendour
 splice
 splicing
 splinter
@@ -16637,6 +16703,7 @@ stifle
 stifled
 stifling
 stigma
+stiletto
 still
 stillness
 stilt
@@ -16738,6 +16805,7 @@ strapping
 stratagem
 strategic
 strategy
+stratosphere
 stratus
 strauss
 straw
@@ -16783,6 +16851,7 @@ strive
 striving
 strobe
 strode
+stroke
 stroking
 stroll
 stroller
@@ -16903,6 +16972,7 @@ substance
 substandard
 substantial
 substantially
+substantiate
 substantive
 substitute
 substitution
@@ -18992,6 +19062,7 @@ valet
 valhalla
 valiant
 valid
+validate
 validation
 validity
 valium
@@ -19448,6 +19519,7 @@ weathering
 weave
 weaver
 weaving
+wedded
 wedding
 wedge
 wedged
@@ -19528,6 +19600,7 @@ whet
 whether
 whey
 which
+whichever
 whiff
 whig
 while
