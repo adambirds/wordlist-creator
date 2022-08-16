@@ -1025,6 +1025,7 @@ asia
 asian
 asiatic
 aside
+asinine
 askance
 askew
 asking
@@ -1262,6 +1263,7 @@ axiom
 axis
 axle
 azerbaijan
+azerbaijani
 aztec
 azure
 baal
@@ -1847,6 +1849,7 @@ blocking
 blog
 bloke
 blond
+blonde
 bloodbath
 blooded
 bloodless
@@ -2122,6 +2125,7 @@ breadth
 break
 breakaway
 breakdown
+breaker
 breakfast
 breaking
 breakneck
@@ -2750,6 +2754,7 @@ celery
 celestial
 celibacy
 celibate
+cell
 cellular
 celluloid
 cellulose
@@ -3355,6 +3360,7 @@ collins
 collision
 colloquial
 collusion
+cologne
 colombian
 colombo
 colon
@@ -4047,6 +4053,7 @@ courtier
 courtly
 courtship
 courtyard
+cousin
 couture
 cove
 covenant
@@ -4295,6 +4302,7 @@ culinary
 cull
 culling
 culminate
+culmination
 culpable
 culprit
 cult
@@ -5569,6 +5577,7 @@ dribble
 dried
 drier
 drift
+drill
 driller
 drilling
 drink
@@ -5999,6 +6008,7 @@ employ
 employed
 employee
 employer
+employment
 emporium
 empower
 empowered
@@ -6032,6 +6042,7 @@ encore
 encounter
 encourage
 encouragement
+encouraging
 encroach
 encroachment
 encrust
@@ -6301,6 +6312,7 @@ ethic
 ethical
 ethically
 ethics
+ethiopian
 ethnic
 ethnicity
 ethos
@@ -6885,6 +6897,7 @@ figurehead
 figurine
 figuring
 file
+filet
 filial
 filibuster
 filing
@@ -7397,6 +7410,7 @@ freshwater
 fret
 fretful
 fretted
+freud
 friar
 friction
 friday
@@ -7585,6 +7599,7 @@ gardening
 gardner
 gargantuan
 gargle
+garish
 garland
 garlic
 garment
@@ -8529,6 +8544,7 @@ hence
 henceforth
 henchman
 henna
+henry
 hepatitis
 herald
 herb
@@ -8559,6 +8575,7 @@ hernia
 hero
 heroic
 heroics
+heroin
 heroine
 heroism
 herr
@@ -8725,6 +8742,7 @@ hormone
 horn
 horned
 horrendous
+horrible
 horribly
 horrid
 horrific
@@ -8744,6 +8762,7 @@ hospitalization
 host
 hostage
 hostel
+hostess
 hostile
 hostilities
 hostility
@@ -9202,6 +9221,7 @@ incorrect
 incorrigible
 increase
 increasing
+incredible
 incredibly
 incredulity
 incredulous
@@ -9428,6 +9448,7 @@ innocuous
 innovate
 innovation
 innuendo
+innumerable
 inoffensive
 inordinate
 inorganic
@@ -9795,6 +9816,7 @@ japanese
 jargon
 jarring
 jasmine
+jason
 jaundice
 jaunt
 jaunty
@@ -10403,6 +10425,7 @@ libel
 libelous
 liberal
 liberalism
+liberality
 liberally
 liberate
 liberated
@@ -10595,6 +10618,7 @@ locket
 lockout
 lockstep
 loco
+locomotive
 locus
 locust
 lodge
@@ -10783,6 +10807,7 @@ madman
 madness
 madonna
 maelstrom
+maestro
 mafia
 magazine
 magdalen
@@ -10925,6 +10950,7 @@ mannish
 manoeuvre
 manor
 manpower
+mansfield
 mansion
 manslaughter
 mantel
@@ -11247,6 +11273,7 @@ metaphysical
 metaphysics
 metastatic
 meteor
+meteoric
 meteorite
 meteorologist
 meter
@@ -12024,6 +12051,7 @@ nomadic
 nomenclature
 nominal
 nominate
+nominated
 nomination
 nominee
 nondescript
@@ -12088,6 +12116,7 @@ notorious
 notwithstanding
 nought
 noun
+nourish
 nourishing
 nourishment
 nous
@@ -13041,6 +13070,7 @@ pentecost
 pentecostal
 penthouse
 penultimate
+people
 peoria
 pep
 pepper
@@ -13826,6 +13856,7 @@ primer
 primeval
 primitive
 primo
+primordial
 primp
 prince
 princely
@@ -15367,6 +15398,7 @@ rotten
 rotting
 rotunda
 rouge
+rough
 rougher
 roughly
 roughness
@@ -15695,6 +15727,7 @@ scariness
 scarlet
 scarring
 scary
+scathing
 scatter
 scattered
 scattering
@@ -16071,6 +16104,7 @@ shall
 shallot
 shallow
 sham
+shaman
 shambles
 shame
 shameful
@@ -16907,6 +16941,7 @@ spell
 spellbind
 speller
 spelling
+spelt
 spencer
 spend
 spendable
@@ -17359,6 +17394,7 @@ straight
 straighten
 straightforward
 straightway
+strain
 strained
 strainer
 straining
@@ -17552,6 +17588,7 @@ substitute
 substitution
 substrate
 subsystem
+subterfuge
 subterranean
 subtext
 subtitle
@@ -19640,6 +19677,7 @@ utterance
 uttering
 utterly
 uttermost
+uzbek
 vacancy
 vacant
 vacate
@@ -19868,6 +19906,7 @@ violate
 violation
 violator
 violence
+violent
 violet
 violin
 viper
