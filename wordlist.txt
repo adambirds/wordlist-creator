@@ -3761,6 +3761,7 @@ connective
 connectivity
 connector
 connexion
+conniving
 connoisseur
 connor
 connotation
@@ -4374,6 +4375,7 @@ cumbersome
 cumin
 cumulative
 cuneiform
+cunning
 cunningly
 cunt
 cupbearer
@@ -5566,6 +5568,7 @@ downer
 downfall
 downfield
 downgrade
+downhill
 download
 downpour
 downright
@@ -8837,6 +8840,7 @@ horizon
 hormone
 horn
 horned
+horoscope
 horrendous
 horrible
 horribly
@@ -9553,6 +9557,7 @@ innocently
 innocuous
 innovate
 innovation
+innovative
 innuendo
 innumerable
 inoffensive
@@ -9795,6 +9800,7 @@ invisibility
 invisible
 invitation
 invite
+inviting
 invocation
 invoice
 invoke
@@ -12348,6 +12354,7 @@ obscenity
 obscure
 obscurity
 observable
+observance
 observant
 observation
 observational
@@ -13375,6 +13382,7 @@ phobia
 phoenix
 phone
 phonebook
+phonetic
 phoney
 phonics
 phoniness
@@ -13611,6 +13619,7 @@ pod
 podium
 poem
 poet
+poetic
 poetical
 poetry
 pogo
@@ -17061,6 +17070,7 @@ spacing
 spacious
 spade
 spaghetti
+spake
 spam
 span
 spaniard
@@ -18248,6 +18258,7 @@ taught
 taunt
 taunting
 taurus
+taut
 tavern
 tawdry
 tawny
