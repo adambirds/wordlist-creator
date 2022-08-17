@@ -2184,6 +2184,7 @@ batch
 bate
 bath
 bathe
+bathhouse
 bathing
 bathroom
 bathtub
@@ -2623,6 +2624,7 @@ blackberry
 blackbird
 blackboard
 blacken
+blackfoot
 blackguard
 blacking
 blackjack
@@ -2973,6 +2975,7 @@ bored
 boredom
 borer
 borg
+borgia
 boring
 born
 borne
@@ -4481,6 +4484,7 @@ christie
 christmas
 christology
 christopher
+chroma
 chromatic
 chromatin
 chromatography
@@ -4514,6 +4518,7 @@ churn
 churning
 chute
 chutney
+cia
 cicero
 cid
 cider
@@ -7624,6 +7629,7 @@ distant
 distantly
 distaste
 distasteful
+distemper
 distempered
 distil
 distill
@@ -7838,6 +7844,7 @@ doric
 doris
 dork
 dorm
+dormancy
 dormant
 dormer
 dormitory
@@ -8847,6 +8854,7 @@ epiphany
 epirus
 episcopal
 episcopalian
+episcopate
 episode
 episodic
 epistemic
@@ -9723,6 +9731,7 @@ ferocity
 ferrara
 ferret
 ferris
+ferrous
 ferrule
 ferry
 fertile
@@ -10863,6 +10872,7 @@ gel
 gelatin
 gelatine
 gelatinous
+gelding
 gem
 gemini
 gen
@@ -11137,6 +11147,7 @@ glycogen
 glycol
 gnarled
 gnarly
+gnash
 gnat
 gnaw
 gneiss
@@ -11151,6 +11162,7 @@ goatee
 goatskin
 gob
 gobble
+gobbler
 goblet
 goblin
 god
@@ -12716,6 +12728,7 @@ hysteria
 hysteric
 hysterical
 iambic
+iba
 iberia
 iberian
 ibm
@@ -16611,6 +16624,7 @@ mon
 monaco
 monad
 monarch
+monarchical
 monarchy
 monastery
 monastic
@@ -17680,6 +17694,7 @@ obstruction
 obstructionist
 obstructive
 obtain
+obtrude
 obtrusive
 obtuse
 obtuseness
@@ -18502,6 +18517,7 @@ parietal
 paring
 paris
 parish
+parishioner
 parisian
 parity
 park
@@ -18534,6 +18550,7 @@ parse
 parser
 parsi
 parsimonious
+parsimony
 parsley
 parsnip
 parson
@@ -19080,6 +19097,7 @@ phlegmatic
 phobia
 phobic
 phobos
+phoebe
 phoenician
 phoenix
 phone
@@ -24107,6 +24125,7 @@ soothing
 soothsayer
 sooty
 sop
+sophist
 sophisticated
 sophistication
 sophistry
@@ -29269,6 +29288,7 @@ wrongness
 wrote
 wroth
 wrought
+wry
 wyandotte
 wyatt
 wysiwyg
