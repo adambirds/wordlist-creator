@@ -11225,6 +11225,7 @@ gone
 goner
 gong
 gonorrhea
+goo
 good
 goodbye
 goodly
@@ -12115,6 +12116,7 @@ helping
 helpless
 helplessness
 helpline
+helpmate
 hem
 hematology
 hematoma
@@ -13932,6 +13934,7 @@ iroquois
 irradiance
 irradiation
 irrational
+irrationality
 irreconcilable
 irredeemable
 irreducible
@@ -14281,6 +14284,7 @@ jumpy
 junction
 juncture
 june
+jungian
 jungle
 junior
 juniper
@@ -19265,6 +19269,7 @@ pinhole
 pining
 pinion
 pink
+pinkie
 pinkish
 pinky
 pinnace
@@ -22764,6 +22769,7 @@ scratchy
 scrawl
 scrawny
 scream
+screamer
 screaming
 screech
 screed
@@ -25381,6 +25387,7 @@ supplementary
 supplementation
 suppleness
 suppliant
+supplicant
 supplicate
 supplication
 supplier
