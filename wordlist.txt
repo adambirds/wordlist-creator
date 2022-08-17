@@ -214,6 +214,7 @@ accused
 accustom
 accustomed
 ace
+acerbic
 acetic
 acetone
 acetylene
@@ -688,6 +689,7 @@ allege
 alleged
 allegiance
 allegory
+allele
 allen
 allergenic
 allergic
@@ -947,6 +949,7 @@ angelica
 angelus
 anger
 angina
+angiography
 angle
 angled
 angler
@@ -1807,6 +1810,7 @@ azure
 baa
 baal
 bab
+baba
 babbitt
 babble
 babbling
@@ -1989,6 +1993,7 @@ bang
 banger
 banging
 bangladesh
+bangle
 bangor
 banish
 banishment
@@ -2576,6 +2581,7 @@ black
 blackberry
 blackbird
 blackboard
+blacken
 blackguard
 blacking
 blackjack
@@ -3091,6 +3097,7 @@ breadth
 breadwinner
 break
 breakable
+breakage
 breakaway
 breakdown
 breaker
@@ -3880,6 +3887,7 @@ castle
 castoff
 castor
 castrate
+castration
 casual
 casually
 casualness
@@ -4425,6 +4433,7 @@ chump
 chunk
 chunky
 church
+churchgoing
 churchill
 churchman
 churchyard
@@ -4491,6 +4500,7 @@ citation
 cite
 citizen
 citizenship
+citrate
 citric
 citron
 citrus
@@ -5044,6 +5054,7 @@ comparison
 compartment
 compass
 compassed
+compasses
 compassion
 compassionate
 compatibility
@@ -6505,6 +6516,7 @@ decease
 deceased
 deceit
 deceitful
+deceitfulness
 deceive
 deceiver
 deceiving
@@ -7037,6 +7049,7 @@ devoid
 devolution
 devolve
 devon
+devonian
 devote
 devoted
 devotedly
@@ -7562,6 +7575,7 @@ diver
 diverge
 divergence
 divergent
+diverging
 divers
 diverse
 diversification
@@ -8770,6 +8784,7 @@ erased
 eraser
 erasure
 ere
+erebus
 erect
 erectile
 erection
@@ -12186,6 +12201,7 @@ homeschool
 homesick
 homespun
 homestead
+homestretch
 homeward
 homework
 homey
@@ -12340,6 +12356,7 @@ hove
 hover
 how
 howard
+howbeit
 howdy
 howe
 however
@@ -14531,6 +14548,7 @@ lawsuit
 lawyer
 lax
 laxative
+laxity
 lay
 layaway
 layer
@@ -14668,6 +14686,7 @@ lengthwise
 lengthy
 leniency
 lenient
+leningrad
 lenity
 lens
 lent
@@ -15124,6 +15143,7 @@ lovable
 love
 loveless
 loveliness
+lovelorn
 lovely
 lover
 loving
@@ -16135,6 +16155,7 @@ minefield
 miner
 mineral
 mineralization
+mineralogy
 minerva
 ming
 mingle
@@ -17175,6 +17196,7 @@ nonce
 nonchalance
 nonchalant
 nonchalantly
+noncommissioned
 noncommittal
 nonconformist
 nondescript
@@ -18571,6 +18593,7 @@ penned
 penniless
 penning
 pennsylvania
+pennsylvanian
 penny
 penobscot
 penpal
@@ -18852,6 +18875,7 @@ photosynthesis
 phrase
 phraseology
 phrasing
+phrygian
 phylactery
 phyllis
 phylogenetic
@@ -19422,6 +19446,7 @@ postpaid
 postpone
 postponement
 postscript
+postulate
 posture
 postwar
 pot
@@ -21700,6 +21725,7 @@ rivet
 riveter
 riveting
 rivulet
+rms
 roach
 road
 roadbed
@@ -23169,6 +23195,7 @@ signor
 signora
 signorina
 sikh
+silage
 silence
 silenced
 silencer
@@ -23244,6 +23271,7 @@ singsong
 singular
 singularity
 singularly
+sinhala
 sinhalese
 sinister
 sink
@@ -24471,6 +24499,7 @@ stitching
 stoat
 stochastic
 stock
+stockbroker
 stockholder
 stocking
 stockpile
@@ -25101,6 +25130,7 @@ swath
 swathe
 swatter
 sway
+swazi
 swear
 sweat
 sweater
@@ -27612,6 +27642,7 @@ useless
 uselessly
 user
 usher
+usp
 usual
 usurer
 usurious
