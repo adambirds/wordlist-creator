@@ -896,6 +896,7 @@ amusement
 amuser
 amusing
 amygdala
+amyloid
 ana
 anabolic
 anachronism
@@ -5750,6 +5751,7 @@ corinthian
 cork
 corked
 corker
+corkscrew
 cormorant
 corn
 cornball
@@ -9239,6 +9241,7 @@ exert
 exertion
 exes
 exfoliate
+exhalation
 exhale
 exhaust
 exhausted
@@ -9701,6 +9704,7 @@ fecal
 feces
 feckless
 fecund
+fecundity
 fed
 federal
 federalism
@@ -14461,6 +14465,7 @@ kind
 kindergarten
 kindergartner
 kindle
+kindliness
 kindling
 kindly
 kindness
@@ -15465,6 +15470,7 @@ lumbar
 lumber
 lumbering
 lumberjack
+lumen
 luminance
 luminary
 luminescence
@@ -22480,6 +22486,7 @@ sameness
 sami
 samoa
 samoan
+samovar
 samphire
 sample
 sampler
@@ -22718,6 +22725,7 @@ schizophrenic
 schlep
 schlock
 schmaltz
+schmooze
 schmuck
 schnapps
 scholar
