@@ -499,6 +499,7 @@ afresh
 african
 afrikaans
 afrikaner
+aft
 after
 afterglow
 afterlife
@@ -629,6 +630,7 @@ albino
 albion
 album
 albumen
+albumin
 alchemical
 alchemist
 alchemy
@@ -1312,6 +1314,7 @@ argument
 argumentation
 argumentative
 argus
+aria
 arian
 arid
 ariel
@@ -1808,6 +1811,7 @@ babbitt
 babble
 babbling
 babe
+babel
 babied
 baboon
 baby
@@ -3104,6 +3108,7 @@ breastbone
 breasted
 breastplate
 breaststroke
+breastwork
 breath
 breathe
 breathed
@@ -3605,6 +3610,7 @@ camouflage
 camp
 campaign
 campaigner
+campana
 campania
 campbell
 camper
@@ -4038,6 +4044,7 @@ centralized
 centre
 centrepiece
 centric
+centrifugal
 centrifuge
 centring
 centripetal
@@ -4358,6 +4365,7 @@ choke
 chokehold
 choker
 choking
+choler
 cholera
 choleric
 chomp
@@ -4861,6 +4869,7 @@ collegiate
 collide
 collie
 collier
+colliery
 collins
 collision
 colloquial
@@ -5603,6 +5612,7 @@ copper
 coppice
 copra
 cops
+copse
 coptic
 copulation
 copy
@@ -5639,6 +5649,7 @@ corned
 corner
 cornered
 cornerstone
+cornet
 cornfield
 cornflake
 cornhusk
@@ -6725,6 +6736,7 @@ delude
 deluge
 delusion
 delusional
+delusive
 deluxe
 delve
 demagogic
@@ -6985,6 +6997,7 @@ detonation
 detonator
 detour
 detox
+detoxification
 detoxify
 detract
 detractor
@@ -7145,6 +7158,7 @@ dilation
 dilatory
 dildo
 dilemma
+dilettante
 diligence
 diligent
 dill
@@ -7242,6 +7256,7 @@ disappoint
 disappointed
 disappointing
 disappointment
+disapprobation
 disapproval
 disapprove
 disarm
@@ -7698,6 +7713,7 @@ doped
 dopey
 doppler
 dorian
+doric
 doris
 dork
 dorm
@@ -7751,6 +7767,7 @@ downer
 downfall
 downfield
 downgrade
+downhearted
 downhill
 download
 downpour
@@ -7799,6 +7816,7 @@ dram
 drama
 dramatic
 dramatically
+dramatics
 dramatist
 dramatization
 dramatize
@@ -7941,6 +7959,7 @@ ducktail
 ducky
 duct
 ductile
+dud
 dude
 dudgeon
 dudley
@@ -8247,6 +8266,7 @@ eighties
 eighty
 einstein
 either
+ejaculate
 ejaculation
 eject
 ejection
@@ -8758,6 +8778,7 @@ ergonomic
 ergonomics
 erie
 erin
+eritrean
 ermine
 erode
 eroded
@@ -9177,6 +9198,7 @@ extend
 extended
 extender
 extending
+extensible
 extension
 extensive
 extensively
@@ -9588,6 +9610,7 @@ fetid
 fetish
 fetishism
 fetter
+fettered
 fetus
 feu
 feud
@@ -10398,6 +10421,7 @@ frothy
 froward
 frown
 frozen
+frs
 fructose
 frugal
 frugality
@@ -10969,6 +10993,7 @@ goalpost
 goat
 goatee
 goatskin
+gob
 gobble
 goblet
 goblin
@@ -11014,6 +11039,7 @@ gonorrhea
 good
 goodbye
 goodly
+goodman
 goodness
 goodwill
 goody
@@ -11454,6 +11480,7 @@ hagfish
 haggadah
 haggard
 haggler
+hagiography
 haida
 haiku
 hail
@@ -11888,6 +11915,7 @@ helplessness
 helpline
 hem
 hematology
+hematoma
 hemisphere
 hemlock
 hemoglobin
@@ -11978,6 +12006,7 @@ heterosexual
 heuristic
 hew
 hewn
+hex
 hexagon
 hexagonal
 hexagram
@@ -12248,6 +12277,7 @@ horseback
 horseflesh
 horsehair
 horseman
+horsemanship
 horseplay
 horsepower
 horseshit
@@ -12402,6 +12432,7 @@ hunger
 hungrily
 hungry
 hunk
+hunker
 hunks
 hunky
 hunt
@@ -15525,6 +15556,7 @@ marginalia
 marginalize
 marginally
 maria
+mariachi
 marian
 maricopa
 marigold
@@ -15557,6 +15589,7 @@ marl
 marlborough
 marlin
 marlowe
+marly
 marmalade
 maroon
 marque
@@ -16183,6 +16216,7 @@ miser
 miserable
 miserly
 misery
+misfire
 misfit
 misfortune
 misgiving
@@ -16315,6 +16349,7 @@ mohammedanism
 mohave
 mohawk
 moiety
+moil
 moist
 moisten
 moistness
@@ -16779,6 +16814,7 @@ naivety
 naked
 nakedness
 nam
+nama
 name
 nameless
 namely
@@ -17020,6 +17056,7 @@ newsman
 newspaper
 newsroom
 newsy
+newt
 newton
 newtonian
 next
@@ -17114,6 +17151,7 @@ nodding
 node
 nog
 noggin
+nohow
 noir
 noise
 noiseless
@@ -18152,6 +18190,7 @@ paparazzi
 papaya
 paper
 paperback
+paperweight
 pappy
 paprika
 papuan
@@ -21019,6 +21058,7 @@ relaxed
 relay
 relearn
 release
+relegate
 relegation
 relent
 relenting
@@ -21680,6 +21720,7 @@ roaring
 roast
 roaster
 roasting
+rob
 robber
 robbery
 robbing
@@ -23199,6 +23240,7 @@ singles
 singlet
 singleton
 singly
+singsong
 singular
 singularity
 singularly
@@ -23451,6 +23493,7 @@ slouchy
 slough
 slovak
 slovenian
+slovenly
 slow
 slowly
 slowness
@@ -23752,6 +23795,7 @@ soothsayer
 sop
 sophisticated
 sophistication
+sophistry
 sophomore
 soporific
 sopping
@@ -23831,6 +23875,7 @@ spake
 spam
 span
 spandex
+spangled
 spaniard
 spaniel
 spanish
@@ -24217,6 +24262,7 @@ stapling
 star
 starboard
 starch
+starched
 stardom
 stardust
 stare
@@ -25345,6 +25391,7 @@ taro
 tarot
 tarpaulin
 tarpon
+tarragon
 tarry
 tart
 tartan
@@ -27723,6 +27770,7 @@ veil
 veiled
 veiling
 vein
+veined
 velcro
 veldt
 vellum
