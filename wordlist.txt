@@ -598,6 +598,7 @@ aircrew
 airfield
 airfoil
 airhead
+airily
 airing
 airless
 airlift
@@ -1077,6 +1078,7 @@ antioxidant
 antipathy
 antipodes
 antiquarian
+antiquary
 antiquated
 antique
 antiquely
@@ -1188,6 +1190,7 @@ appetizing
 applaud
 applause
 apple
+applesauce
 appleton
 appliance
 applicable
@@ -1597,6 +1600,7 @@ atonable
 atone
 atonement
 atop
+atp
 atrial
 atrium
 atrocious
@@ -1755,6 +1759,7 @@ aversion
 avert
 averted
 avian
+aviary
 aviation
 aviator
 avid
@@ -3422,6 +3427,7 @@ burgher
 burglar
 burglary
 burgomaster
+burgundian
 burgundy
 burial
 buried
@@ -3585,6 +3591,7 @@ calibre
 calico
 californian
 caliph
+caliphate
 calisthenics
 call
 callback
@@ -4021,6 +4028,7 @@ celebrate
 celebrated
 celebration
 celebrity
+celerity
 celery
 celestial
 celiac
@@ -4104,6 +4112,7 @@ cesspool
 cet
 ceylon
 cfc
+chablis
 chad
 chafe
 chaff
@@ -5428,6 +5437,7 @@ constantinople
 constantly
 constellation
 consternation
+constipated
 constipation
 constituency
 constituent
@@ -5874,6 +5884,7 @@ cozy
 coöperation
 cpa
 cps
+cpu
 crab
 crabbed
 crabbing
@@ -7037,6 +7048,7 @@ detritus
 deuce
 deuced
 deuteronomy
+dev
 devaluation
 devalue
 devastate
@@ -7103,6 +7115,7 @@ diagram
 dial
 dialect
 dialectic
+dialectics
 dialog
 dialogue
 dialysis
@@ -10511,6 +10524,7 @@ fulness
 fulsome
 fulton
 fumble
+fumigation
 fuming
 fun
 function
@@ -12281,6 +12295,7 @@ hooded
 hoodoo
 hoodwink
 hoof
+hoofed
 hook
 hooked
 hooker
@@ -13357,6 +13372,7 @@ innumerable
 inoculate
 inoculation
 inoffensive
+inoperable
 inoperative
 inopportune
 inordinate
@@ -15951,6 +15967,7 @@ meniscus
 mennonite
 menopause
 menorah
+mensa
 menstrual
 menstruation
 ment
@@ -16156,6 +16173,7 @@ milled
 millennial
 millennium
 miller
+millet
 milligram
 milliliter
 millimeter
@@ -16601,6 +16619,7 @@ mortify
 mortifying
 morton
 mortuary
+mos
 mosaic
 moselle
 moses
@@ -17063,6 +17082,7 @@ nervous
 nervously
 nervousness
 nervy
+nes
 ness
 nest
 nestle
@@ -17351,6 +17371,7 @@ now
 nowadays
 nowhere
 nowise
+nowt
 noxious
 nozzle
 nra
@@ -18469,6 +18490,7 @@ patriot
 patriotic
 patriotism
 patrol
+patrolman
 patron
 patronage
 patroness
@@ -18516,6 +18538,7 @@ pbs
 pcb
 pcp
 pda
+pdf
 pea
 peace
 peaceable
@@ -18971,6 +18994,7 @@ piety
 piffle
 pig
 pigeon
+pigeonhole
 pigment
 pigmentation
 pigskin
@@ -19870,6 +19894,7 @@ processional
 processor
 proclaim
 proclamation
+proclivity
 proconsul
 procrastinate
 procrastination
@@ -22136,6 +22161,7 @@ salon
 saloon
 salsa
 salt
+salting
 saltwater
 salty
 salutary
@@ -22548,6 +22574,7 @@ scuttle
 scuttlebutt
 scylla
 scythe
+scythian
 sdp
 sea
 seaboard
@@ -24846,6 +24873,7 @@ subscription
 subsection
 subsector
 subsequent
+subservience
 subservient
 subset
 subside
@@ -27708,6 +27736,7 @@ uselessly
 user
 usher
 usp
+uss
 usual
 usurer
 usurious
@@ -27761,6 +27790,7 @@ vainglorious
 vainglory
 vainly
 vale
+valedictorian
 valedictory
 valence
 valencia
@@ -28385,6 +28415,7 @@ water
 waterborne
 watercolor
 watercolour
+watercourse
 watercraft
 watercress
 waterfall
