@@ -218,6 +218,7 @@ accustom
 accustomed
 ace
 acerbic
+acetate
 acetic
 acetone
 acetylene
@@ -8067,6 +8068,7 @@ drudge
 drudgery
 drug
 druggist
+druid
 drum
 drumbeat
 drummer
@@ -9514,6 +9516,7 @@ faker
 fakir
 falafel
 falcon
+falconer
 fall
 falla
 fallacious
@@ -14968,6 +14971,7 @@ leven
 lever
 leverage
 levers
+leviathan
 levin
 levitate
 levitation
@@ -19049,6 +19053,7 @@ perth
 pertinacious
 pertinacity
 pertinent
+perturbation
 pertussis
 perusal
 peruse
@@ -21159,6 +21164,7 @@ recuperation
 recuperative
 recur
 recurrence
+recurrent
 recurring
 recursion
 recursive
@@ -23599,6 +23605,7 @@ sinclair
 sindhi
 sine
 sinecure
+sinew
 sinewy
 sinful
 sing
@@ -24247,6 +24254,7 @@ sow
 sower
 sown
 soy
+soya
 soybean
 spa
 space
