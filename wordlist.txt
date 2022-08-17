@@ -7982,6 +7982,7 @@ drawing
 drawl
 drawn
 dray
+drayage
 dread
 dreaded
 dreadful
@@ -8620,6 +8621,7 @@ emu
 emulate
 emulation
 emulator
+emulsion
 enable
 enact
 enactment
@@ -11880,6 +11882,7 @@ harper
 harping
 harpist
 harpoon
+harpy
 harris
 harrison
 harrow
@@ -12168,6 +12171,7 @@ heretofore
 hereupon
 herewith
 heritage
+hermaphrodite
 hermeneutic
 hermeneutics
 hermes
@@ -12556,6 +12560,7 @@ howitzer
 howl
 howler
 howling
+howsoever
 hoy
 hoya
 hub
@@ -16330,6 +16335,7 @@ migrate
 migration
 migratory
 mike
+mil
 milan
 milanese
 milch
@@ -17406,6 +17412,7 @@ nitre
 nitric
 nitro
 nitrogen
+nitrogenous
 nitrous
 nitty
 nix
@@ -18422,6 +18429,7 @@ palmer
 palmetto
 palpable
 palpitate
+palpitation
 palsied
 palsy
 paltry
@@ -19342,6 +19350,7 @@ plaintive
 plait
 plaited
 plan
+planar
 plane
 planet
 planetarium
@@ -20634,6 +20643,7 @@ quantitative
 quantity
 quantum
 quarantine
+quark
 quarrel
 quarrelsome
 quarry
@@ -24156,6 +24166,7 @@ soothing
 soothsayer
 sooty
 sop
+soph
 sophist
 sophisticated
 sophistication
@@ -26833,6 +26844,7 @@ trojan
 troll
 trolley
 trolling
+trollope
 trombone
 troop
 trooper
@@ -28368,6 +28380,7 @@ vindictive
 vine
 vinegar
 vineyard
+vino
 vintage
 vintner
 vinyl
