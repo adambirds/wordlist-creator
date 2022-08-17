@@ -1528,6 +1528,7 @@ assessor
 asset
 assets
 assiduity
+assiduous
 assign
 assignable
 assignation
@@ -2352,6 +2353,7 @@ belated
 belay
 belch
 belfast
+belfry
 belgian
 belie
 belief
@@ -3779,6 +3781,7 @@ capitulation
 capo
 capon
 capped
+capper
 capping
 capra
 caprice
@@ -4780,6 +4783,7 @@ clownish
 club
 clubbed
 clubbing
+clubby
 clubhouse
 cluck
 clucking
@@ -6285,6 +6289,7 @@ cupcake
 cupful
 cupid
 cupola
+cuppa
 cupped
 cupping
 cur
@@ -6852,6 +6857,7 @@ deluxe
 delve
 demagogic
 demagogue
+demagoguery
 demand
 demanding
 demarcation
@@ -6902,6 +6908,7 @@ deniable
 denial
 denier
 denigrate
+denigration
 denim
 denizen
 denomination
@@ -7517,6 +7524,7 @@ dismal
 dismally
 dismantle
 dismay
+dismember
 dismemberment
 dismiss
 dismissal
@@ -7902,6 +7910,7 @@ downhill
 download
 downpour
 downright
+downshift
 downside
 downsize
 downsizing
@@ -11654,6 +11663,7 @@ hag
 hagfish
 haggadah
 haggard
+haggle
 haggler
 hagiography
 haida
@@ -14422,6 +14432,7 @@ kingmaker
 kingpin
 kingship
 kingston
+kink
 kinky
 kinsfolk
 kinship
@@ -14502,6 +14513,7 @@ kraal
 kremlin
 kris
 krishna
+krona
 krypton
 kshatriya
 kudos
@@ -15225,6 +15237,7 @@ locate
 locating
 location
 locator
+loch
 lock
 locker
 locket
@@ -15829,6 +15842,7 @@ married
 marrow
 marry
 mars
+marsala
 marsh
 marshal
 marshall
@@ -16353,6 +16367,7 @@ mime
 mimetic
 mimic
 mimicry
+mimosa
 min
 mina
 minaret
@@ -23081,6 +23096,7 @@ setback
 seth
 seton
 sett
+settee
 setter
 setting
 settle
@@ -28120,6 +28136,7 @@ vaulting
 vaunt
 veal
 vector
+veda
 vedic
 veer
 veering
