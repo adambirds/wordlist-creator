@@ -1898,6 +1898,7 @@ backspin
 backstab
 backstage
 backstop
+backstroke
 backtalk
 backtrack
 backup
@@ -2161,6 +2162,7 @@ basin
 basis
 bask
 basket
+basketball
 basque
 bass
 basset
@@ -2316,6 +2318,7 @@ beginning
 begone
 begotten
 begrudge
+beguile
 beguiling
 begun
 behalf
@@ -3793,6 +3796,7 @@ carbohydrate
 carbon
 carbonate
 carbonation
+carbonic
 carboniferous
 carcass
 carcinoma
@@ -4180,6 +4184,7 @@ chancery
 chandelier
 chandler
 chandlery
+chang
 change
 changeable
 changeful
@@ -4257,6 +4262,7 @@ chaste
 chastise
 chastisement
 chastity
+chasuble
 chat
 chateau
 chateaubriand
@@ -4376,6 +4382,7 @@ chilling
 chilly
 chime
 chimera
+chimerical
 chimney
 chimp
 chimpanzee
@@ -4469,6 +4476,7 @@ chronicle
 chronograph
 chronological
 chronology
+chronometer
 chubby
 chuck
 chuckle
@@ -4533,6 +4541,7 @@ circumspection
 circumstance
 circumstantial
 circumvent
+circumvention
 circus
 cirrhosis
 cirrus
@@ -5685,6 +5694,7 @@ copyleft
 copyright
 coquetry
 coquette
+coquettish
 cor
 coral
 cord
@@ -5703,6 +5713,7 @@ corinthian
 cork
 corked
 corker
+cormorant
 corn
 cornball
 cornbread
@@ -5770,6 +5781,7 @@ corruption
 corruptly
 corsage
 corsair
+corse
 corset
 corsica
 corsican
@@ -6180,6 +6192,7 @@ crustacean
 crusty
 crutch
 crux
+cry
 crybaby
 crying
 cryogenic
@@ -6389,6 +6402,7 @@ dakota
 dal
 dale
 dalliance
+dally
 dallying
 dalmatian
 dalton
@@ -7600,6 +7614,7 @@ distinction
 distinctive
 distinctiveness
 distinctly
+distinctness
 distinguish
 distinguishable
 distinguished
@@ -9521,6 +9536,7 @@ faro
 farrell
 farrier
 farsi
+farsighted
 farsightedness
 fart
 farther
@@ -9610,6 +9626,7 @@ feathery
 feature
 featured
 featureless
+febrile
 february
 fecal
 feces
@@ -10503,6 +10520,7 @@ frock
 frog
 froggy
 frolic
+frolicsome
 from
 frond
 front
@@ -12366,6 +12384,7 @@ hooked
 hooker
 hookup
 hooky
+hooligan
 hoop
 hoopla
 hoops
@@ -12464,6 +12483,7 @@ housework
 housing
 houston
 hove
+hovel
 hover
 how
 howard
@@ -12822,6 +12842,7 @@ imminent
 immobile
 immobility
 immobilize
+immoderate
 immoderately
 immodest
 immolation
@@ -13886,6 +13907,7 @@ islamic
 islamism
 islamist
 island
+islander
 isle
 islet
 ism
@@ -14434,6 +14456,7 @@ krypton
 kshatriya
 kudos
 kung
+kurd
 kurdish
 kuwait
 kuwaiti
@@ -16157,6 +16180,7 @@ metropolitan
 mettle
 meuse
 mew
+mews
 mexican
 mexico
 mezzanine
@@ -17208,6 +17232,7 @@ new
 newborn
 newcastle
 newcomer
+newfangled
 newfoundland
 newly
 newman
@@ -17618,6 +17643,7 @@ obvious
 occasion
 occasional
 occasionally
+occipital
 occlusion
 occult
 occultist
@@ -18529,6 +18555,7 @@ pasteboard
 pasted
 pastel
 pasteurization
+pastiche
 pastime
 pastor
 pastoral
@@ -24012,6 +24039,7 @@ sooth
 soothe
 soothing
 soothsayer
+sooty
 sop
 sophisticated
 sophistication
@@ -24073,6 +24101,7 @@ southerly
 southern
 southerner
 southernmost
+southpaw
 southward
 southwest
 southwesterly
@@ -24613,6 +24642,7 @@ stepfather
 stephen
 stepladder
 stepmother
+steppe
 stepped
 stepsister
 stepson
@@ -25459,6 +25489,7 @@ syntax
 synthesis
 synthesize
 synthesized
+synthesizer
 synthetic
 syphilis
 syracuse
