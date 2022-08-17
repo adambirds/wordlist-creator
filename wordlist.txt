@@ -3482,6 +3482,7 @@ burn
 burned
 burner
 burning
+burnish
 burnout
 burns
 burnt
@@ -5400,6 +5401,7 @@ congregational
 congress
 congressional
 congressman
+congreve
 congruence
 congruent
 conical
@@ -6258,6 +6260,7 @@ cudgel
 cue
 cuff
 cufflink
+cuirass
 cuisine
 culinary
 cull
@@ -6622,6 +6625,7 @@ decease
 deceased
 deceit
 deceitful
+deceitfully
 deceitfulness
 deceive
 deceiver
@@ -9988,6 +9992,7 @@ flaccid
 flack
 flag
 flagellation
+flagellum
 flagging
 flagman
 flagon
@@ -11566,6 +11571,7 @@ guess
 guesstimate
 guesswork
 guest
+guesthouse
 guff
 guffaw
 guggenheim
@@ -12130,6 +12136,7 @@ hemophilia
 hemorrhage
 hemp
 hemstitch
+hen
 hence
 henceforth
 henceforward
@@ -12433,6 +12440,7 @@ honeymoon
 honeysuckle
 hong
 honk
+honky
 honor
 honorable
 honorably
@@ -13117,6 +13125,7 @@ inbreeding
 inc
 inca
 incalculable
+incan
 incandescent
 incantation
 incapable
@@ -13490,6 +13499,7 @@ inimitable
 iniquitous
 iniquity
 initial
+initialize
 initiate
 initiation
 initiative
@@ -14682,6 +14692,7 @@ lapping
 lapse
 lapsed
 laptop
+lar
 larboard
 larceny
 larch
@@ -14774,6 +14785,7 @@ lawgiver
 lawless
 lawlessness
 lawmaker
+lawman
 lawn
 lawrence
 lawsuit
@@ -15693,6 +15705,7 @@ maltese
 malthus
 malthusian
 mama
+mambo
 mamey
 mamma
 mammal
@@ -17075,6 +17088,7 @@ mystery
 mystic
 mystical
 mysticism
+mystification
 mystified
 mystify
 mystique
@@ -20210,6 +20224,7 @@ projectile
 projecting
 projection
 projector
+proletarian
 proletariat
 proliferate
 proliferation
@@ -22307,6 +22322,7 @@ rusher
 rushing
 russ
 russell
+russet
 russia
 russian
 rust
@@ -23001,6 +23017,7 @@ seminarian
 seminary
 seminole
 semiofficial
+semiotics
 semisoft
 semisweet
 semite
@@ -23125,6 +23142,7 @@ servitor
 servitude
 servo
 sesame
+sess
 session
 sessions
 set
