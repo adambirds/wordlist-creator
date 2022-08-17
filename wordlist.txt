@@ -712,6 +712,7 @@ alliance
 allied
 allies
 alligator
+alliteration
 alliterative
 allocate
 allocation
@@ -6238,6 +6239,7 @@ cst
 cub
 cuba
 cuban
+cubby
 cubbyhole
 cube
 cubic
@@ -6824,6 +6826,7 @@ deliberative
 delicacy
 delicate
 delicately
+delicatessen
 delicious
 deliciously
 deliciousness
@@ -7178,6 +7181,7 @@ dewy
 dexter
 dexterity
 dexterous
+dey
 dharma
 dhow
 diabetes
@@ -8611,6 +8615,7 @@ emptier
 emptiness
 empty
 emptying
+ems
 emu
 emulate
 emulation
@@ -8859,6 +8864,7 @@ epigraph
 epilepsy
 epileptic
 epilogue
+epinephrine
 epiphany
 epirus
 episcopal
@@ -9187,6 +9193,7 @@ excrete
 excretion
 excretory
 excruciating
+excruciatingly
 exculpatory
 excursion
 excusable
@@ -9405,6 +9412,7 @@ extricate
 extrication
 extrinsic
 extrovert
+extroverted
 extrude
 extruding
 extrusion
@@ -10949,6 +10957,7 @@ geology
 geometric
 geometrically
 geometry
+geophysics
 geopolitics
 geordie
 george
@@ -11525,6 +11534,7 @@ grumpily
 grumpy
 grunge
 grunt
+gryphon
 guacamole
 guadalcanal
 guano
@@ -14140,6 +14150,7 @@ jingling
 jingoism
 jingoist
 jinx
+jitter
 jitters
 jittery
 jiu
@@ -14410,6 +14421,7 @@ kilt
 kilter
 kimberley
 kimono
+kin
 kinase
 kind
 kindergarten
@@ -15384,6 +15396,7 @@ lsd
 lube
 lubricant
 lubricate
+lubricated
 lubrication
 lucas
 luce
@@ -16527,6 +16540,7 @@ mithras
 mitigate
 mitigation
 mitosis
+mitra
 mitre
 mitt
 mitten
@@ -23287,6 +23301,7 @@ shingle
 shingles
 shininess
 shining
+shinto
 shiny
 ship
 shipboard
@@ -26951,6 +26966,7 @@ turk
 turkey
 turki
 turkic
+turkish
 turmeric
 turmoil
 turn
@@ -27617,6 +27633,7 @@ unnerve
 unnerving
 unnoticeable
 unnoticed
+unnumbered
 unobjectionable
 unobservant
 unobserved
