@@ -1256,6 +1256,7 @@ aqueous
 aquifer
 aquila
 aquiline
+ara
 arab
 arabesque
 arabian
@@ -1329,6 +1330,7 @@ argumentative
 argus
 aria
 arian
+arianism
 arid
 ariel
 aries
@@ -3041,6 +3043,7 @@ boycott
 boyfriend
 boyhood
 boyish
+boyle
 bozo
 bra
 brace
@@ -3069,6 +3072,7 @@ braille
 brain
 brained
 brainless
+brainpower
 brainstorm
 brainstorming
 brainwash
@@ -3744,6 +3748,7 @@ capitation
 capitol
 capitulate
 capitulation
+capo
 capon
 capped
 capping
@@ -4067,6 +4072,7 @@ centenary
 centennial
 center
 centered
+centerfield
 centering
 centerpiece
 centigrade
@@ -5059,6 +5065,7 @@ communicator
 communion
 communism
 communist
+communistic
 communitarian
 community
 commutation
@@ -6001,6 +6008,7 @@ creeper
 creeping
 creeps
 creepy
+crematorium
 creme
 cremona
 creole
@@ -7710,6 +7718,7 @@ doi
 doily
 doing
 doit
+dolce
 doldrums
 dole
 doleful
@@ -7820,6 +7829,7 @@ douse
 dove
 dover
 dovetail
+dovish
 dow
 dowager
 dowdy
@@ -8805,6 +8815,7 @@ equable
 equal
 equaliser
 equality
+equalize
 equalizer
 equally
 equanimity
@@ -9211,6 +9222,7 @@ expert
 expertise
 expertly
 expiate
+expiation
 expiration
 expire
 expired
@@ -10902,6 +10914,7 @@ ghoul
 giant
 gib
 gibberish
+gibbet
 gibbon
 gibe
 giblet
@@ -11452,6 +11465,7 @@ guess
 guesstimate
 guesswork
 guest
+guff
 guffaw
 guggenheim
 guidable
@@ -11531,6 +11545,7 @@ guzzler
 gym
 gymnasium
 gymnast
+gymnastic
 gymnastics
 gynecology
 gypsum
@@ -12215,6 +12230,7 @@ hobgoblin
 hobo
 hock
 hockey
+hocus
 hodgepodge
 hodgkin
 hoe
@@ -14340,6 +14356,7 @@ kleenex
 klondike
 kludge
 knack
+knackered
 knapsack
 knave
 knavery
@@ -14649,6 +14666,7 @@ lazy
 ldl
 ldp
 lea
+leach
 lead
 leaded
 leaden
@@ -15534,6 +15552,7 @@ malta
 malted
 maltese
 malthus
+malthusian
 mama
 mamey
 mamma
@@ -16017,6 +16036,7 @@ menu
 meow
 mephistopheles
 mercantile
+mercantilism
 mercenary
 mercer
 merchandise
@@ -16133,6 +16153,7 @@ microbiology
 microcosm
 microfilm
 micron
+micronesia
 microphone
 microscope
 microscopic
@@ -16670,6 +16691,7 @@ mossy
 most
 mostly
 mot
+mote
 motel
 moth
 mothball
@@ -18997,6 +19019,7 @@ physicist
 physics
 physiognomy
 physiological
+physiologically
 physiology
 physique
 pianist
@@ -24973,6 +24996,7 @@ subtly
 subtotal
 subtract
 subtraction
+subtropical
 subtype
 suburb
 suburban
@@ -25519,6 +25543,7 @@ tamp
 tamper
 tamping
 tampon
+tan
 tandem
 tang
 tanganyika
