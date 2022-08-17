@@ -1569,6 +1569,7 @@ asymmetry
 asynchronous
 atavistic
 ate
+atelier
 athabaskan
 atheism
 atheist
@@ -2261,6 +2262,7 @@ bedside
 bedspread
 bedstead
 bedtime
+bee
 beech
 beef
 beefcake
@@ -4351,6 +4353,7 @@ chine
 chinese
 chink
 chinook
+chintz
 chip
 chipmunk
 chipped
@@ -4359,6 +4362,7 @@ chipper
 chipping
 chippy
 chips
+chirp
 chirping
 chirpy
 chisel
@@ -5199,6 +5203,7 @@ concord
 concordance
 concourse
 concrete
+concubine
 concupiscence
 concur
 concurrence
@@ -6158,6 +6163,7 @@ cubic
 cubical
 cubicle
 cubit
+cuckold
 cuckoo
 cucumber
 cud
@@ -6286,6 +6292,7 @@ cutthroat
 cutting
 cyan
 cyanide
+cybele
 cyberpunk
 cycle
 cyclic
@@ -7477,6 +7484,7 @@ dispossessed
 dispossession
 disprove
 disputable
+disputation
 dispute
 disqualified
 disqualify
@@ -8859,6 +8867,7 @@ espresso
 esprit
 espy
 esquire
+esr
 essay
 essayist
 essence
@@ -9369,6 +9378,7 @@ fairly
 fairness
 fairway
 fairy
+fairyland
 faith
 faithful
 faithfully
@@ -9553,6 +9563,7 @@ federalism
 federalist
 federation
 fedora
+fee
 feeble
 feebleness
 feebly
@@ -9641,6 +9652,7 @@ fetish
 fetishism
 fetter
 fettered
+fettle
 fetus
 feu
 feud
@@ -10287,6 +10299,7 @@ fowl
 fowler
 fox
 foxhole
+foxtrot
 foxy
 foyer
 fps
@@ -11639,6 +11652,7 @@ hangnail
 hangout
 hangover
 hangup
+hank
 hankering
 hankie
 hanky
@@ -13095,6 +13109,7 @@ indignity
 indigo
 indirect
 indirectly
+indiscernible
 indiscipline
 indiscreet
 indiscretion
@@ -14090,6 +14105,7 @@ junior
 juniper
 junk
 junker
+junket
 junkie
 junkman
 junky
@@ -15583,6 +15599,7 @@ marc
 march
 marche
 marching
+marchioness
 mardi
 mare
 margarine
@@ -16502,6 +16519,7 @@ monument
 monumental
 monumentally
 moo
+mooch
 moocher
 mood
 moodiness
@@ -16538,6 +16556,7 @@ morality
 morally
 morass
 moratorium
+moravian
 morbid
 morbidity
 morbidly
@@ -17159,6 +17178,7 @@ ninja
 ninny
 nintendo
 ninth
+niobe
 nip
 nipping
 nipple
@@ -18398,6 +18418,7 @@ paste
 pasteboard
 pasted
 pastel
+pasteurization
 pastime
 pastor
 pastoral
@@ -18494,6 +18515,7 @@ pbr
 pbs
 pcb
 pcp
+pda
 pea
 peace
 peaceable
@@ -18522,6 +18544,7 @@ peck
 pecker
 pecking
 pectin
+pectoral
 peculiar
 peculiarity
 peculiarly
@@ -20454,6 +20477,7 @@ quota
 quotable
 quotation
 quote
+quotidian
 quotient
 rabbi
 rabbit
@@ -20671,6 +20695,7 @@ reacquire
 react
 reaction
 reactionary
+reactivate
 reactive
 reactivity
 reactor
@@ -21278,6 +21303,7 @@ reportable
 reportage
 reporter
 repose
+reposition
 repository
 repossess
 repossession
@@ -22978,6 +23004,7 @@ sherry
 shet
 shetland
 shew
+shibboleth
 shield
 shielded
 shielding
@@ -23219,6 +23246,7 @@ signify
 signor
 signora
 signorina
+signpost
 sikh
 silage
 silence
@@ -23495,6 +23523,7 @@ sliced
 slicer
 slicing
 slick
+slicker
 slid
 slide
 slider
@@ -23992,6 +24021,7 @@ speckled
 specks
 specs
 spectacle
+spectacled
 spectacular
 spectator
 specter
@@ -24082,6 +24112,7 @@ spiritualism
 spiritualist
 spirituality
 spiritually
+spirituous
 spit
 spite
 spiteful
@@ -24989,6 +25020,7 @@ sunrise
 sunset
 sunshade
 sunshine
+sunshiny
 sunstroke
 suntan
 sunup
@@ -25046,6 +25078,7 @@ supplementary
 supplementation
 suppleness
 suppliant
+supplicate
 supplication
 supplier
 supply
@@ -25654,6 +25687,7 @@ tern
 terra
 terrace
 terrain
+terrapin
 terrarium
 terrestrial
 terrible
@@ -25702,6 +25736,7 @@ texture
 tha
 thackeray
 thai
+thalia
 thames
 than
 thane
@@ -26303,6 +26338,7 @@ transgender
 transgendered
 transgress
 transgression
+transgressive
 transient
 transistor
 transit
