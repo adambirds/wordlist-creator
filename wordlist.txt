@@ -307,6 +307,7 @@ adapter
 adaption
 adaptive
 adar
+adc
 add
 addendum
 adder
@@ -581,6 +582,7 @@ ailing
 ailment
 aim
 aimless
+ain
 ainsworth
 air
 airborne
@@ -706,6 +708,7 @@ allow
 allowable
 allowance
 alloy
+allspice
 allude
 allure
 allurement
@@ -1491,6 +1494,7 @@ assessment
 assessor
 asset
 assets
+assiduity
 assign
 assignable
 assignation
@@ -1961,6 +1965,7 @@ ban
 banal
 banality
 banana
+banc
 band
 bandage
 bandanna
@@ -2834,6 +2839,7 @@ boned
 bonehead
 boneless
 bonelike
+boner
 bones
 boney
 bonfire
@@ -3313,6 +3319,7 @@ bulge
 bulginess
 bulging
 bulgur
+bulimia
 bulimic
 bulk
 bulkhead
@@ -3563,6 +3570,7 @@ calmly
 calmness
 caloric
 calorie
+calumet
 calumny
 calvary
 calves
@@ -3614,6 +3622,7 @@ cancel
 cancellation
 cancer
 cancerous
+candelabra
 candid
 candidate
 candied
@@ -4052,6 +4061,7 @@ certiorari
 certitude
 cerulean
 cervical
+cervix
 cesarean
 cess
 cessation
@@ -4451,6 +4461,7 @@ circumstance
 circumstantial
 circumvent
 circus
+cirrhosis
 cirrus
 cis
 cisco
@@ -4564,6 +4575,7 @@ cleft
 clem
 clematis
 clemency
+clement
 clench
 clergy
 clergyman
@@ -5233,6 +5245,7 @@ conflict
 conflicting
 confluence
 conflux
+confocal
 conform
 conformable
 conformably
@@ -5358,6 +5371,7 @@ consortium
 conspicuous
 conspicuously
 conspiracy
+conspirator
 conspire
 constable
 constabulary
@@ -5473,6 +5487,7 @@ contradictory
 contralto
 contraption
 contrarian
+contrariety
 contrary
 contrast
 contravene
@@ -5794,6 +5809,7 @@ cowboy
 cower
 cowgirl
 cowhide
+cowl
 cox
 coxcomb
 coxswain
@@ -5999,6 +6015,7 @@ crooked
 croon
 crop
 cropped
+cropper
 cropping
 croquet
 cross
@@ -8636,6 +8653,7 @@ enzyme
 eocene
 eod
 eon
+eos
 ephedra
 ephemera
 ephemeral
@@ -8661,6 +8679,7 @@ episcopal
 episcopalian
 episode
 episodic
+epistemic
 epistemology
 epistle
 epistolary
@@ -11669,6 +11688,7 @@ haven
 haversack
 having
 havoc
+haw
 hawaii
 hawaiian
 hawk
@@ -12035,6 +12055,7 @@ hmong
 hms
 hoar
 hoard
+hoarder
 hoarding
 hoarse
 hoary
@@ -12047,6 +12068,7 @@ hobo
 hock
 hockey
 hodgepodge
+hodgkin
 hoe
 hoffmann
 hog
@@ -12210,6 +12232,7 @@ hoss
 host
 hostage
 hostel
+hostelry
 hostess
 hostile
 hostilities
@@ -12426,6 +12449,7 @@ hyperspace
 hypertension
 hypertensive
 hypertext
+hypertrophy
 hyperventilate
 hyphen
 hyphenated
@@ -12436,6 +12460,7 @@ hypnotism
 hypnotist
 hypnotize
 hypo
+hypochondria
 hypocrisy
 hypocrite
 hypocritical
@@ -12737,6 +12762,7 @@ impressionist
 impressionistic
 impressive
 impressment
+imprimatur
 imprint
 imprinting
 imprison
@@ -12820,6 +12846,7 @@ inception
 incessant
 incessantly
 incest
+incestuous
 inch
 inched
 inchoate
@@ -13964,9 +13991,11 @@ junk
 junker
 junkie
 junkman
+junky
 junkyard
 juno
 junta
+junto
 jupiter
 jurassic
 juridical
@@ -14933,6 +14962,7 @@ log
 logan
 logarithmic
 logbook
+logger
 loggerhead
 loggia
 logging
@@ -15048,6 +15078,7 @@ lozenge
 lube
 lubricant
 lubricate
+lubrication
 lucas
 luce
 lucid
@@ -15296,6 +15327,7 @@ malayan
 malaysian
 malcontent
 male
+malediction
 malefactor
 malevolence
 malevolent
@@ -15562,6 +15594,7 @@ mastodon
 masturbate
 masturbation
 masturbatory
+mat
 matador
 match
 matchbook
@@ -16563,6 +16596,7 @@ multiplication
 multiplicity
 multiplier
 multiply
+multipolar
 multitask
 multitude
 multitudinous
@@ -16943,6 +16977,7 @@ newton
 newtonian
 next
 nexus
+nhs
 niagara
 nib
 nibble
@@ -17052,6 +17087,7 @@ non
 nonalcoholic
 nonce
 nonchalance
+nonchalant
 nonchalantly
 noncommittal
 nonconformist
@@ -18794,6 +18830,7 @@ pill
 pillage
 pillar
 pillared
+pillion
 pillory
 pillow
 pillowcase
@@ -18829,6 +18866,7 @@ pinstripe
 pint
 pinto
 pinup
+piny
 pioneer
 pious
 piously
@@ -19971,6 +20009,7 @@ psychosomatic
 psychotherapy
 psychotic
 pto
+ptolemaic
 ptolemy
 ptt
 pub
@@ -20060,6 +20099,7 @@ pupil
 puppet
 puppetry
 puppy
+pur
 purchase
 purchaser
 pure
@@ -20765,6 +20805,7 @@ refiner
 refinery
 refining
 refinish
+refit
 reflect
 reflected
 reflecting
@@ -21569,6 +21610,7 @@ roadblock
 roadkill
 roadless
 roadside
+roadstead
 roadster
 roadway
 roadwork
@@ -22207,6 +22249,7 @@ scion
 scissor
 scissors
 sclerosis
+sclerotic
 scoff
 scold
 scolding
@@ -22234,6 +22277,7 @@ scorpion
 scot
 scotch
 scotchman
+scotia
 scots
 scotsman
 scott
@@ -22330,6 +22374,7 @@ scuttlebutt
 scylla
 scythe
 sdp
+sea
 seaboard
 seacoast
 seafaring
@@ -22643,6 +22688,7 @@ severity
 sew
 sewage
 sewer
+sewerage
 sewing
 sex
 sexagenarian
@@ -22753,6 +22799,7 @@ shedding
 sheen
 sheep
 sheepish
+sheepshead
 sheepskin
 sheer
 sheet
@@ -23557,6 +23604,7 @@ softener
 softening
 softly
 softness
+softwood
 softy
 soggy
 soho
@@ -24480,6 +24528,7 @@ structured
 strudel
 struggle
 strum
+strumpet
 strung
 strut
 strychnine
@@ -24835,6 +24884,7 @@ supplication
 supplier
 supply
 support
+supportable
 supported
 supporter
 supporting
@@ -25252,6 +25302,7 @@ tasting
 tasty
 tat
 tatar
+tater
 tattered
 tattle
 tattling
@@ -26296,6 +26347,7 @@ trout
 trow
 trowel
 troy
+truancy
 truant
 truce
 truck
@@ -27906,6 +27958,7 @@ volt
 volta
 voltage
 voltaic
+volubility
 voluble
 volume
 volumes
@@ -28836,6 +28889,7 @@ ypres
 yuan
 yucca
 yuck
+yuk
 yule
 yuletide
 yuma
