@@ -242,6 +242,7 @@ acne
 acolyte
 acorn
 acoustic
+acoustically
 acoustics
 acquaint
 acquaintance
@@ -1936,6 +1937,7 @@ bae
 baffin
 baffle
 baffled
+bafflement
 baffling
 bag
 bagel
@@ -3654,6 +3656,7 @@ calumny
 calvary
 calves
 calvin
+calving
 calvinism
 calypso
 calyx
@@ -6582,6 +6585,7 @@ dearth
 death
 deathbed
 deathless
+deathlike
 deathly
 debacle
 debase
@@ -7204,6 +7208,7 @@ diagram
 dial
 dialect
 dialectic
+dialectical
 dialectics
 dialog
 dialogue
@@ -24415,6 +24420,7 @@ spillover
 spillway
 spilt
 spin
+spina
 spinach
 spinal
 spindle
