@@ -99,6 +99,7 @@ abscond
 absence
 absent
 absentee
+absenteeism
 absently
 absinthe
 absolute
@@ -500,6 +501,7 @@ aforementioned
 aforesaid
 aforetime
 afoul
+afp
 afraid
 afresh
 african
@@ -1409,6 +1411,7 @@ arrogant
 arrondissement
 arrow
 arrowhead
+arrowroot
 arroyo
 arse
 arsenal
@@ -3253,6 +3256,7 @@ broadside
 broadsword
 broadway
 broadways
+brocade
 brocaded
 broccoli
 brochure
@@ -3331,6 +3335,7 @@ buck
 buckboard
 bucked
 bucket
+bucketful
 buckeye
 bucking
 buckingham
@@ -3855,6 +3860,7 @@ caroling
 carolinian
 carom
 carotene
+carotid
 carouse
 carousel
 carp
@@ -6098,6 +6104,7 @@ criticize
 critique
 critter
 croak
+croat
 croatian
 croc
 crochet
@@ -6972,6 +6979,7 @@ derived
 dermal
 dermatitis
 dermatology
+dern
 derogation
 derogatory
 derrick
@@ -8066,6 +8074,7 @@ dudgeon
 dudley
 due
 duel
+duenna
 duet
 duff
 duffel
@@ -12814,6 +12823,7 @@ imbalance
 imbecile
 imbecility
 imbibe
+imbroglio
 imbue
 imitate
 imitation
@@ -12964,6 +12974,7 @@ impoverished
 impoverishment
 impracticable
 impractical
+imprecation
 imprecise
 impregnable
 impregnate
@@ -13676,8 +13687,10 @@ intermission
 intermittent
 intern
 internal
+internalize
 internally
 international
+internecine
 internment
 internship
 interpersonal
@@ -13935,6 +13948,7 @@ italics
 itch
 itchy
 item
+itemize
 iterate
 iteration
 iterative
@@ -15534,6 +15548,7 @@ mainframe
 mainland
 mainline
 mainly
+mainmast
 mains
 mainsail
 mainspring
@@ -19100,6 +19115,7 @@ picture
 pictured
 picturesque
 piddling
+pie
 piece
 piecemeal
 pied
@@ -20448,6 +20464,7 @@ pursue
 pursuer
 pursuit
 purveyor
+purview
 purée
 pus
 push
@@ -22453,6 +22470,7 @@ savant
 save
 saved
 saver
+savin
 saving
 savings
 savior
@@ -23512,6 +23530,7 @@ sis
 sissy
 sister
 sisterhood
+sisterly
 sistine
 sisyphean
 sit
@@ -28644,6 +28663,7 @@ weathering
 weave
 weaver
 weaving
+web
 webbed
 webbing
 weber
@@ -29204,6 +29224,7 @@ wysiwyg
 xbox
 xenon
 xerox
+xhosa
 xylophone
 yacht
 yachting
@@ -29310,6 +29331,7 @@ zealous
 zebra
 zechariah
 zen
+zend
 zenith
 zephyr
 zeppelin
