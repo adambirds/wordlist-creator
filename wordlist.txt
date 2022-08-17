@@ -779,6 +779,7 @@ alum
 alumina
 aluminium
 aluminum
+alumna
 alumni
 alumnus
 always
@@ -833,6 +834,7 @@ america
 american
 americana
 americanism
+amerindian
 amethyst
 amf
 amiability
@@ -938,6 +940,7 @@ and
 andalusian
 anderson
 andrew
+androgynous
 android
 andromeda
 anecdotal
@@ -993,6 +996,7 @@ animus
 anise
 anjou
 ankle
+ann
 anna
 annals
 annapurna
@@ -1274,6 +1278,7 @@ arbitrate
 arbitration
 arbitrator
 arbor
+arboreal
 arboretum
 arbour
 arc
@@ -1284,11 +1289,13 @@ arcana
 arcane
 arch
 archaic
+archangel
 archbishop
 archdeacon
 archdiocese
 archduke
 arched
+archenemy
 archer
 archery
 arches
@@ -1551,6 +1558,7 @@ asteroid
 asthma
 asthmatic
 astigmatism
+astir
 astley
 astonish
 astonishing
@@ -2560,6 +2568,7 @@ biped
 bipedal
 biplane
 bipolar
+biracial
 birch
 bird
 birdie
@@ -6619,6 +6628,7 @@ decode
 decoder
 decompose
 decomposition
+decompress
 decompression
 deconstruct
 deconstruction
@@ -7709,6 +7719,7 @@ doggedly
 doggerel
 doggone
 doggy
+doghouse
 dogma
 dogmatic
 dogmatically
@@ -9314,6 +9325,7 @@ extracellular
 extract
 extraction
 extractive
+extractor
 extracurricular
 extradite
 extradition
@@ -10072,6 +10084,7 @@ fluently
 fluff
 fluffy
 fluid
+fluidity
 fluke
 flume
 flung
@@ -10239,6 +10252,7 @@ foresight
 foreskin
 forest
 forestall
+forester
 forestry
 foretaste
 foretell
@@ -10380,6 +10394,7 @@ frank
 frankenstein
 frankfurt
 frankincense
+frankish
 franklin
 frankly
 frankness
@@ -10387,6 +10402,7 @@ frantic
 fraser
 fraternal
 fraternity
+fratricide
 fraud
 fraudulent
 fraught
@@ -10786,6 +10802,7 @@ gayety
 gayly
 gaze
 gazebo
+gazette
 gazetteer
 gazing
 gear
@@ -10911,6 +10928,7 @@ ghost
 ghosting
 ghostly
 ghoul
+ghoulish
 giant
 gib
 gibberish
@@ -11442,6 +11460,7 @@ grumpy
 grunge
 grunt
 guacamole
+guadalcanal
 guano
 guarantee
 guarantor
@@ -12236,6 +12255,7 @@ hodgkin
 hoe
 hoffmann
 hog
+hogan
 hogging
 hogshead
 hogwash
@@ -14611,6 +14631,7 @@ latticed
 latvian
 laud
 laudable
+laudanum
 laudatory
 laugh
 laughable
@@ -14812,6 +14833,7 @@ lessen
 lessening
 lesser
 lesson
+lessor
 lest
 let
 letdown
@@ -15053,6 +15075,7 @@ literalist
 literally
 literary
 literate
+literati
 literature
 lithe
 lithium
@@ -15472,6 +15495,7 @@ mahogany
 maia
 maid
 maiden
+maidenly
 maidservant
 mail
 mailbag
@@ -15825,6 +15849,7 @@ mathematician
 mathematics
 matin
 mating
+matins
 matriarch
 matriarchal
 matriculation
@@ -16959,6 +16984,7 @@ nameplate
 namesake
 naming
 nan
+nana
 nancy
 nang
 nanjing
@@ -18125,6 +18151,7 @@ overshadow
 overshoot
 overshot
 oversight
+oversimplify
 oversize
 oversized
 oversleep
@@ -19060,6 +19087,7 @@ piffle
 pig
 pigeon
 pigeonhole
+piggyback
 pigment
 pigmentation
 pigskin
@@ -20531,6 +20559,7 @@ quicksilver
 quickstep
 quid
 quiescence
+quiescent
 quiet
 quietly
 quietness
@@ -21038,6 +21067,7 @@ redux
 redwood
 ree
 reed
+reedy
 reef
 reefer
 reek
@@ -21074,6 +21104,7 @@ reflected
 reflecting
 reflection
 reflective
+reflectivity
 reflector
 reflex
 reflexion
@@ -23288,6 +23319,7 @@ shyness
 siamese
 sib
 siberian
+sibilant
 sibling
 sibyl
 sic
@@ -23985,6 +24017,7 @@ sophisticated
 sophistication
 sophistry
 sophomore
+sophomoric
 soporific
 sopping
 soppy
@@ -24825,6 +24858,7 @@ strongbox
 stronghold
 strongly
 strongman
+strontium
 struck
 structural
 structure
@@ -25557,6 +25591,7 @@ tank
 tankard
 tanker
 tanned
+tanner
 tannery
 tannic
 tannin
@@ -25640,6 +25675,7 @@ taxation
 taxes
 taxi
 taxicab
+taxidermy
 taxis
 taxonomic
 taxonomy
@@ -25938,6 +25974,7 @@ thicket
 thickly
 thickness
 thief
+thievery
 thieving
 thievish
 thigh
@@ -26186,6 +26223,7 @@ title
 titled
 titling
 titration
+titter
 tittle
 titty
 titular
@@ -27097,6 +27135,7 @@ underage
 underarm
 underbelly
 underbrush
+undercarriage
 underclothes
 undercoat
 undercook
