@@ -749,6 +749,7 @@ aloud
 alpaca
 alpha
 alphabet
+alphabetic
 alphabetical
 alphabetically
 alphanumeric
@@ -1949,6 +1950,7 @@ bahraini
 bail
 bailey
 bailiff
+bailiwick
 bairn
 bait
 baiting
@@ -2361,6 +2363,7 @@ belittle
 bell
 belle
 bellicose
+bellied
 belligerence
 belligerency
 belligerent
@@ -3022,6 +3025,7 @@ bounden
 bounding
 boundless
 bounds
+bounteous
 bountiful
 bounty
 bouquet
@@ -3661,6 +3665,7 @@ cameo
 camera
 camion
 camisole
+camo
 camorra
 camouflage
 camp
@@ -3707,6 +3712,7 @@ canker
 cannabis
 canned
 cannery
+cannibal
 cannibalism
 cannibalize
 canning
@@ -4291,6 +4297,7 @@ cheapness
 cheat
 cheater
 cheating
+chechen
 check
 checked
 checker
@@ -5835,6 +5842,7 @@ coulter
 council
 councillor
 councilman
+councilor
 counsel
 counsellor
 counselor
@@ -6420,6 +6428,7 @@ dam
 damage
 damaged
 damaging
+daman
 damascus
 damask
 dame
@@ -7223,6 +7232,7 @@ differentially
 differentiate
 differentiated
 differentiation
+difficile
 difficult
 difficulty
 diffidence
@@ -7459,6 +7469,7 @@ disentangle
 disfavor
 disfavour
 disfigure
+disfigurement
 disgrace
 disgraceful
 disguise
@@ -8718,6 +8729,7 @@ enliven
 enmity
 ennoble
 ennui
+enormity
 enormous
 enormously
 enough
@@ -12018,6 +12030,7 @@ heckle
 hectare
 hectic
 hedge
+hedgehog
 hedgerow
 hedging
 hedonism
@@ -12790,6 +12803,7 @@ ill
 illegal
 illegality
 illegible
+illegitimacy
 illegitimate
 illegitimately
 illiberal
@@ -13521,6 +13535,7 @@ inshore
 inside
 insider
 insidious
+insight
 insightful
 insignia
 insignificance
@@ -16082,6 +16097,7 @@ memorialize
 memorize
 memory
 memphis
+men
 menace
 menagerie
 mend
@@ -17024,6 +17040,7 @@ nail
 naive
 naivety
 naked
+nakedly
 nakedness
 nam
 nama
@@ -17400,6 +17417,7 @@ none
 nonentity
 nonessential
 nonexistence
+nonfunctional
 noninvasive
 nonlinear
 nonnative
@@ -17462,6 +17480,7 @@ nosegay
 nosey
 nosh
 nostalgia
+nostril
 nostrum
 nosy
 not
@@ -18080,6 +18099,7 @@ outrageous
 outrageously
 outrank
 outreach
+outrigger
 outright
 outrun
 outscore
@@ -18875,6 +18895,7 @@ perfunctory
 perfusion
 perhaps
 peri
+pericardium
 peril
 perilous
 perimeter
@@ -20821,6 +20842,7 @@ rascality
 rascally
 rash
 rashness
+rasp
 raspberry
 rasping
 raspy
@@ -21272,6 +21294,7 @@ reichstag
 reign
 reimburse
 rein
+reincarnate
 reincarnation
 reindeer
 reinforce
@@ -22092,6 +22115,7 @@ rotational
 rotator
 rote
 rotgut
+rotisserie
 rotor
 rotten
 rotting
@@ -22426,6 +22450,7 @@ sarcastic
 sarcoma
 sarcophagus
 sardine
+sardinian
 sardonic
 sari
 sark
@@ -22953,6 +22978,7 @@ sent
 sentence
 sentencing
 sententious
+sentience
 sentient
 sentiment
 sentimental
@@ -23709,6 +23735,7 @@ sleepiness
 sleeping
 sleepless
 sleepover
+sleepwalking
 sleepy
 sleet
 sleeve
@@ -25184,6 +25211,7 @@ sulfur
 sulk
 sulky
 sullen
+sullenness
 sullivan
 sully
 sulphate
@@ -26338,6 +26366,7 @@ tolerant
 tolerate
 toleration
 toll
+tollbooth
 tolling
 tom
 tomahawk
