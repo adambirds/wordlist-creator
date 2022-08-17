@@ -597,6 +597,7 @@ airbrush
 aircraft
 aircrew
 airfield
+airflow
 airfoil
 airhead
 airily
@@ -1913,6 +1914,7 @@ badlands
 badly
 badminton
 badness
+bae
 baffin
 baffle
 baffled
@@ -2144,6 +2146,7 @@ basic
 basically
 basics
 basil
+basilisk
 basin
 basis
 bask
@@ -3832,6 +3835,7 @@ carol
 caroline
 caroling
 carolinian
+carom
 carotene
 carouse
 carousel
@@ -4351,6 +4355,7 @@ chile
 chilean
 chili
 chill
+chiller
 chilli
 chilling
 chilly
@@ -5370,6 +5375,7 @@ connectivity
 connector
 connexion
 conning
+connivance
 connive
 conniving
 connoisseur
@@ -5667,6 +5673,7 @@ cor
 coral
 cord
 cordage
+corded
 cordial
 cordiality
 cordless
@@ -6063,6 +6070,7 @@ critique
 critter
 croak
 croatian
+croc
 crochet
 crocheting
 crock
@@ -6078,6 +6086,7 @@ crony
 crook
 crooked
 croon
+crooning
 crop
 cropped
 cropper
@@ -6308,6 +6317,7 @@ cutting
 cyan
 cyanide
 cybele
+cybernetics
 cyberpunk
 cycle
 cyclic
@@ -6349,6 +6359,7 @@ dag
 dagga
 dagger
 dagon
+daguerreotype
 dahl
 daikon
 daily
@@ -8229,6 +8240,7 @@ ecstatic
 ectopic
 ecu
 ecumenical
+ecumenism
 eczema
 edda
 eddy
@@ -10533,6 +10545,7 @@ fulness
 fulsome
 fulton
 fumble
+fume
 fumigation
 fuming
 fun
@@ -10626,6 +10639,7 @@ gaining
 gains
 gainsay
 gait
+gal
 gala
 galactic
 galatea
@@ -11966,6 +11980,7 @@ helical
 helicopter
 heliotrope
 helium
+helix
 hell
 hella
 hellenic
@@ -12234,6 +12249,7 @@ holocene
 hologram
 holographic
 holster
+holt
 holy
 homage
 hombre
@@ -12602,6 +12618,7 @@ hypnotist
 hypnotize
 hypo
 hypochondria
+hypochondriac
 hypocrisy
 hypocrite
 hypocritical
@@ -14363,6 +14380,7 @@ knox
 knuckle
 koala
 kodak
+kohl
 kook
 kooky
 koran
@@ -14935,6 +14953,7 @@ limited
 limiter
 limiting
 limitless
+limoges
 limousine
 limp
 limping
@@ -15133,6 +15152,7 @@ loincloth
 loire
 loiter
 lol
+loll
 lolly
 lombard
 london
@@ -17544,6 +17564,7 @@ obtain
 obtrusive
 obtuse
 obtuseness
+obverse
 obviate
 obvious
 occasion
@@ -18476,6 +18497,7 @@ patchouli
 patchwork
 patchy
 pate
+patella
 patent
 patented
 patentee
@@ -19177,6 +19199,7 @@ plateful
 platform
 plating
 platinum
+platitude
 platonic
 platonism
 platoon
@@ -19672,6 +19695,7 @@ predispose
 predisposition
 predominance
 predominant
+predominate
 preempt
 preemption
 preemptive
@@ -20237,6 +20261,7 @@ puck
 pucker
 pudding
 puddle
+pudgy
 pueblo
 puerile
 puff
@@ -20630,6 +20655,7 @@ ramshackle
 ran
 ranch
 rancher
+ranching
 rancho
 rancid
 rancidity
@@ -20756,6 +20782,7 @@ readiness
 reading
 readjust
 readjustment
+readout
 ready
 reaffirm
 reagan
@@ -21450,6 +21477,7 @@ residue
 resign
 resignation
 resigned
+resignedly
 resilience
 resiliency
 resilient
@@ -22617,6 +22645,7 @@ seamanship
 seamed
 seamless
 seamstress
+seamy
 seaport
 sear
 search
@@ -22919,6 +22948,7 @@ sewerage
 sewing
 sex
 sexagenarian
+sexed
 sexism
 sexless
 sextant
@@ -23814,6 +23844,7 @@ soberly
 sobriety
 sobriquet
 soc
+sociability
 sociable
 social
 socialise
@@ -24824,6 +24855,7 @@ sturdy
 sturgeon
 stutter
 stuttering
+sty
 style
 styling
 stylish
@@ -25695,6 +25727,7 @@ tempter
 tempting
 temptress
 ten
+tenable
 tenacious
 tenacity
 tenancy
@@ -28727,6 +28760,7 @@ whorl
 whose
 why
 wicca
+wiccan
 wichita
 wick
 wicked
