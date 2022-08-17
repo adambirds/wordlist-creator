@@ -1866,6 +1866,7 @@ bacillus
 back
 backache
 backbench
+backbiting
 backboard
 backbone
 backboned
@@ -3816,6 +3817,7 @@ carapace
 carat
 caravan
 caraway
+carbide
 carbine
 carbohydrate
 carbon
@@ -4262,6 +4264,7 @@ charitably
 charity
 charlatan
 charles
+charleston
 charley
 charlie
 charm
@@ -11821,6 +11824,7 @@ hangout
 hangover
 hangup
 hank
+hanker
 hankering
 hankie
 hanky
@@ -17808,6 +17812,7 @@ odessa
 odin
 odious
 odium
+odometer
 odor
 odoriferous
 odorless
@@ -19354,6 +19359,7 @@ pity
 pivot
 pivotal
 pix
+pixie
 pla
 placard
 placate
@@ -23277,6 +23283,7 @@ shaving
 shaw
 shawl
 shawnee
+shay
 she
 shea
 sheaf
