@@ -19752,6 +19752,7 @@ position
 positive
 positively
 positivism
+positivist
 positivity
 posse
 possess
@@ -24786,6 +24787,7 @@ steeplechase
 steepness
 steer
 steerable
+steerage
 steering
 steersman
 stegosaur
