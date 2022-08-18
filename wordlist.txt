@@ -949,6 +949,7 @@ andrew
 androgynous
 android
 andromeda
+ane
 anecdotal
 anecdote
 anemia
@@ -971,6 +972,7 @@ angle
 angled
 angler
 angles
+anglian
 anglican
 anglicanism
 angling
@@ -1065,6 +1067,7 @@ anther
 anthill
 anthology
 anthony
+anthracite
 anthrax
 anthropogenic
 anthropology
@@ -2463,6 +2466,7 @@ bet
 beta
 betake
 betel
+beth
 bethany
 bethink
 bethlehem
@@ -3811,6 +3815,7 @@ carbonate
 carbonation
 carbonic
 carboniferous
+carburetor
 carcass
 carcinoma
 card
@@ -8614,6 +8619,7 @@ enable
 enact
 enactment
 enamel
+encamp
 encampment
 encapsulate
 encapsulation
@@ -9773,6 +9779,7 @@ feudal
 feudalism
 fever
 feverish
+few
 fey
 fez
 fiance
@@ -9949,6 +9956,7 @@ fitter
 fitting
 five
 fivefold
+fiver
 fives
 fix
 fixate
@@ -12535,6 +12543,7 @@ howling
 howsoever
 hoy
 hoya
+hst
 hub
 hubble
 hubbub
@@ -15859,6 +15868,7 @@ marx
 marxism
 marxist
 mary
+mas
 masai
 mascara
 mascot
@@ -16200,6 +16210,7 @@ metabolize
 metal
 metallic
 metallurgy
+metalwork
 metamorphic
 metamorphosis
 metaphor
@@ -17382,6 +17393,7 @@ nitric
 nitro
 nitrogen
 nitrogenous
+nitroglycerin
 nitrous
 nitty
 nix
@@ -17902,6 +17914,7 @@ opiate
 opine
 opinion
 opinionated
+opioid
 opium
 opossum
 opponent
@@ -24387,6 +24400,7 @@ spoilt
 spoke
 spoken
 spokesman
+spoliation
 sponge
 sponging
 spongy
