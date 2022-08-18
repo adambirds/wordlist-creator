@@ -13153,6 +13153,7 @@ incidence
 incident
 incidental
 incidentally
+incinerate
 incipient
 incised
 incision
@@ -15620,6 +15621,7 @@ magnitude
 magnolia
 magnum
 magpie
+magyar
 mahayana
 mahdi
 mahogany
