@@ -1062,6 +1062,7 @@ antenatal
 antenna
 antennae
 anterior
+anteroom
 anthem
 anther
 anthill
@@ -3869,6 +3870,7 @@ carlyle
 carmaker
 carmel
 carmelite
+carmine
 carnage
 carnal
 carnation
@@ -9197,6 +9199,7 @@ exclusive
 excommunicate
 excommunication
 excrement
+excreta
 excrete
 excretion
 excretory
@@ -19957,6 +19960,7 @@ prepay
 preplan
 preponderance
 preposition
+prepossessing
 preposterous
 preppy
 prepubescent
@@ -24869,6 +24873,7 @@ stoic
 stoicism
 stoke
 stoked
+stoker
 stole
 stolen
 stolid
