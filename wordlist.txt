@@ -16121,6 +16121,7 @@ melee
 mell
 mellifluous
 mellow
+mellowed
 melodic
 melodious
 melodrama
@@ -20431,6 +20432,7 @@ psychosis
 psychosomatic
 psychotherapy
 psychotic
+psychotropic
 pto
 ptolemaic
 ptolemy
