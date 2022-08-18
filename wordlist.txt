@@ -1460,6 +1460,7 @@ artwork
 arty
 arum
 aryan
+asa
 asbestos
 ascend
 ascendancy
@@ -9731,6 +9732,7 @@ feminism
 feminist
 feminize
 femme
+femoral
 femur
 fen
 fence
@@ -16881,6 +16883,7 @@ mountaineering
 mountainous
 mountebank
 mounted
+mountie
 mounting
 mourn
 mourner
@@ -22124,6 +22127,7 @@ romanesque
 romani
 romanian
 romantic
+romanticism
 romanticize
 romany
 rome
