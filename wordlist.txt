@@ -15110,6 +15110,7 @@ liken
 likeness
 likewise
 liking
+lil
 lilac
 lilith
 lilliputian
@@ -19304,6 +19305,7 @@ pincer
 pincers
 pinch
 pinched
+pincushion
 pindar
 pine
 pineapple
