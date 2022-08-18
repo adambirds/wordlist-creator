@@ -2288,6 +2288,7 @@ bedded
 bedder
 bedding
 bede
+bedevil
 bedford
 bedouin
 bedpost
@@ -2362,6 +2363,7 @@ belch
 belfast
 belfry
 belgian
+belial
 belie
 belief
 believable
@@ -7037,6 +7039,7 @@ descent
 describe
 description
 descriptive
+descriptor
 descry
 desecrate
 desecration
@@ -7949,6 +7952,7 @@ doyenne
 doze
 dozen
 drab
+drabble
 drachma
 draco
 draconian
@@ -15212,6 +15216,7 @@ lite
 liter
 literacy
 literal
+literalism
 literalist
 literally
 literary
@@ -15936,6 +15941,7 @@ masjid
 mask
 masked
 masking
+maslin
 masochism
 mason
 masonic
@@ -16670,6 +16676,7 @@ molar
 molasses
 mold
 molding
+moldovan
 moldy
 mole
 molecular
@@ -16979,6 +16986,7 @@ mullah
 mulled
 mullet
 mullets
+mulligan
 multicellular
 multifarious
 multilateral
@@ -19340,6 +19348,7 @@ piratical
 pirouette
 pisces
 piss
+pissant
 pissed
 pistachio
 piste
@@ -23217,6 +23226,7 @@ sexual
 sexuality
 sexually
 sexy
+señor
 señora
 shabbily
 shabbiness
@@ -24977,6 +24987,7 @@ stp
 straddle
 straggler
 straight
+straightaway
 straighten
 straightforward
 straightway
@@ -26539,6 +26550,7 @@ top
 topaz
 tope
 topgallant
+tophet
 topic
 topical
 topically
@@ -27065,6 +27077,7 @@ turtle
 turtledove
 turtleneck
 tuscan
+tuscarora
 tush
 tusk
 tussle
