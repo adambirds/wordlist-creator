@@ -10852,6 +10852,7 @@ garter
 garth
 gary
 gas
+gascon
 gaseous
 gash
 gasification
@@ -11694,6 +11695,7 @@ hag
 hagfish
 haggadah
 haggard
+haggis
 haggle
 haggler
 hagiography
@@ -19655,6 +19657,7 @@ poncho
 pond
 ponder
 ponderous
+ponderously
 pone
 pong
 poniard
