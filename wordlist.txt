@@ -6498,6 +6498,7 @@ danton
 dapper
 dappled
 dar
+dardanelles
 dare
 daredevil
 dares
@@ -7502,6 +7503,7 @@ disfavor
 disfavour
 disfigure
 disfigurement
+disgorge
 disgrace
 disgraceful
 disguise
@@ -23871,6 +23873,7 @@ slipshod
 slipstream
 slit
 slither
+slitting
 sliver
 slob
 slobber
