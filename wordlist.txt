@@ -12396,6 +12396,7 @@ homemade
 homeopath
 homeopathic
 homeopathy
+homeostasis
 homepage
 homer
 homeric
@@ -13240,6 +13241,7 @@ indecent
 indecipherable
 indecision
 indecisive
+indecisiveness
 indecorous
 indeed
 indefatigable
@@ -15119,6 +15121,7 @@ lin
 linchpin
 lincoln
 lind
+linden
 lindsay
 line
 lineage
@@ -15200,6 +15203,7 @@ lithium
 lithograph
 lithography
 lithuanian
+litigant
 litigate
 litigation
 litigator
