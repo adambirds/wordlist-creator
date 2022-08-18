@@ -3173,6 +3173,7 @@ breastplate
 breaststroke
 breastwork
 breath
+breathable
 breathe
 breathed
 breather
@@ -10531,6 +10532,7 @@ freer
 freestyle
 freeware
 freeway
+freewheeling
 freewill
 freezable
 freeze
