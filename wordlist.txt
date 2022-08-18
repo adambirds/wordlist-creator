@@ -5506,6 +5506,7 @@ constriction
 constrictor
 construct
 construction
+constructionist
 constructive
 constructively
 constructor
@@ -12726,6 +12727,7 @@ iambic
 iba
 iberia
 iberian
+ibis
 ibm
 ibuprofen
 icc
@@ -14027,6 +14029,7 @@ jalapeno
 jam
 jamaica
 jamaican
+jamb
 jamboree
 james
 jammer
@@ -15654,6 +15657,7 @@ malted
 maltese
 malthus
 malthusian
+mam
 mama
 mambo
 mamey
@@ -16413,6 +16417,7 @@ minuteness
 minutia
 minx
 miocene
+mir
 miracle
 miraculous
 mirage
@@ -25287,6 +25292,7 @@ superhighway
 superhuman
 superimpose
 superimposed
+superintend
 superintendence
 superintendent
 superior
