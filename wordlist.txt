@@ -2878,6 +2878,7 @@ bole
 bolero
 bolivar
 boll
+bologna
 bolshevik
 bolshevism
 bolster
@@ -6427,6 +6428,7 @@ dabble
 dachshund
 dad
 daddy
+dado
 daemon
 daffodil
 daft
@@ -8099,6 +8101,7 @@ drying
 dryly
 dryness
 drywall
+dsc
 dual
 dualism
 dualistic
@@ -29434,6 +29437,7 @@ yore
 york
 yorkshire
 yorktown
+yoruba
 you
 young
 youngster
