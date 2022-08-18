@@ -1701,6 +1701,7 @@ augury
 august
 augusta
 augustan
+augustine
 augustinian
 auld
 aum
@@ -13897,6 +13898,7 @@ inviolate
 invisibility
 invisible
 invitation
+invitational
 invite
 inviting
 invocation
@@ -19242,6 +19244,7 @@ pictured
 picturesque
 piddling
 pie
+piebald
 piece
 piecemeal
 pied
