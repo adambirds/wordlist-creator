@@ -26,6 +26,11 @@ jobs:
       - name: run clean_wordlist.py
         run: python3 ./clean_wordlist.py
       
+      - name: run profanity_checker.py
+        run: python3 ./profanity_checker.py
+        env:
+          RAPID_API_KEY: ${{ secrets.RAPID_API_KEY }}
+      
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Updated wordlist.txt with new words.
