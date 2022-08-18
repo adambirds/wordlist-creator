@@ -2272,6 +2272,7 @@ beaucoup
 beaumont
 beauteous
 beautiful
+beautify
 beauty
 beaver
 bebop
@@ -8531,6 +8532,7 @@ eloquently
 else
 elsewhere
 elucidate
+elucidation
 elude
 elusive
 elves
