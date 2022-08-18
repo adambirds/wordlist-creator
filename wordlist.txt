@@ -3294,6 +3294,7 @@ bronzing
 brooch
 brood
 brooding
+broody
 brook
 broom
 broomstick
@@ -4031,6 +4032,7 @@ caucus
 caught
 cauldron
 cauliflower
+caulk
 caulking
 causal
 causality
@@ -4270,6 +4272,7 @@ charles
 charleston
 charley
 charlie
+charlotte
 charm
 charmed
 charmer
@@ -4391,6 +4394,7 @@ chickasaw
 chicken
 chickenshit
 chico
+chicory
 chide
 chiding
 chief
@@ -14477,6 +14481,7 @@ kissing
 kit
 kitchen
 kitchener
+kitchenware
 kite
 kith
 kitsch
@@ -15317,6 +15322,7 @@ loire
 loiter
 lol
 loll
+lollipop
 lolly
 lombard
 london
@@ -17210,6 +17216,7 @@ navy
 nay
 nazarene
 naïveté
+ncta
 ndebele
 neanderthal
 neapolitan
@@ -22042,6 +22049,7 @@ riptide
 rise
 risen
 riser
+risible
 rising
 risk
 risky
