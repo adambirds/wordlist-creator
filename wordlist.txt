@@ -3723,6 +3723,7 @@ cannon
 cannonade
 cannonball
 cannot
+canny
 canoe
 canola
 canon
@@ -10862,6 +10863,7 @@ gayety
 gayly
 gaze
 gazebo
+gazelle
 gazette
 gazetteer
 gazing
@@ -11885,6 +11887,7 @@ harvester
 harvesting
 has
 hash
+hashish
 hassle
 hast
 haste
@@ -12971,6 +12974,7 @@ impetuosity
 impetuous
 impetus
 impiety
+impinge
 impious
 impish
 implacable
@@ -23027,6 +23031,7 @@ separateness
 separation
 separatism
 separatist
+separator
 sepia
 sepsis
 sept
@@ -24590,6 +24595,7 @@ standardize
 standby
 standing
 standoff
+standoffish
 standpoint
 standstill
 standup
