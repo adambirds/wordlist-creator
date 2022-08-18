@@ -4072,6 +4072,7 @@ cecilia
 cedar
 cede
 ceiling
+celebrant
 celebrate
 celebrated
 celebration
@@ -6290,6 +6291,7 @@ cupboard
 cupcake
 cupful
 cupid
+cupidity
 cupola
 cuppa
 cupped
@@ -6547,6 +6549,7 @@ dazzle
 dazzler
 dazzling
 dba
+dcc
 dds
 deacon
 deactivate
@@ -9713,6 +9716,7 @@ felonious
 felony
 felt
 felt-tip
+felucca
 female
 feme
 feminine
@@ -18584,6 +18588,7 @@ part
 partake
 partaker
 parted
+parthenon
 parthian
 partial
 partiality
@@ -20234,6 +20239,7 @@ proofs
 prop
 propaganda
 propagandist
+propagandize
 propagate
 propagation
 propane
@@ -22838,6 +22844,7 @@ seashore
 seasickness
 seaside
 season
+seasonable
 seasonably
 seasonal
 seasoning
@@ -28127,6 +28134,7 @@ vault
 vaulted
 vaulting
 vaunt
+vcd
 veal
 vector
 veda
