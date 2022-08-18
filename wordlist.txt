@@ -2595,6 +2595,7 @@ birmingham
 birth
 birthday
 birthing
+birthmark
 birthplace
 birthrate
 birthright
@@ -9796,6 +9797,7 @@ fez
 fiance
 fiasco
 fiat
+fib
 fiber
 fibre
 fibrillation
@@ -13204,6 +13206,7 @@ incredibly
 incredulity
 incredulous
 increment
+incriminate
 incubate
 incubation
 incubator
@@ -18799,6 +18802,7 @@ pedant
 pedantic
 pedantry
 peddle
+peddler
 peddling
 pedestal
 pedestrian
