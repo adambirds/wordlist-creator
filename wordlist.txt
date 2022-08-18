@@ -12194,6 +12194,7 @@ hereto
 heretofore
 hereupon
 herewith
+heritable
 heritage
 hermaphrodite
 hermeneutic
@@ -23341,6 +23342,7 @@ shibboleth
 shield
 shielded
 shielding
+shies
 shift
 shifter
 shifting
