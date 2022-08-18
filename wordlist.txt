@@ -1688,6 +1688,7 @@ audition
 auditor
 auditorium
 auditory
+augean
 auger
 aught
 augment
@@ -4302,6 +4303,7 @@ chatting
 chatty
 chauffeur
 chauvinism
+chauvinist
 chauvinistic
 cheap
 cheapen
@@ -14616,6 +14618,7 @@ lamented
 laminate
 laminated
 lamp
+lamplight
 lampoon
 lampshade
 lan
@@ -17722,6 +17725,7 @@ obsolescence
 obsolete
 obstacle
 obstetric
+obstetrician
 obstetrics
 obstinacy
 obstinate
@@ -20394,6 +20398,7 @@ prudish
 prudishly
 prune
 pruning
+prurient
 prussia
 prussian
 pry
@@ -25775,6 +25780,7 @@ tare
 target
 tariff
 tarmac
+tarn
 tarnish
 taro
 tarot
