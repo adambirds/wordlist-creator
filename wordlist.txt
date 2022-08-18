@@ -17403,6 +17403,7 @@ nipping
 nippy
 nirvana
 nisi
+nit
 nitrate
 nitre
 nitric
@@ -17980,6 +17981,7 @@ orally
 orange
 oration
 orator
+oratorical
 oratorio
 oratory
 orb
@@ -23193,6 +23195,7 @@ shallowness
 sham
 shaman
 shambles
+shambling
 shame
 shamefaced
 shameful
