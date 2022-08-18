@@ -4203,6 +4203,7 @@ challenger
 challenging
 chamber
 chambered
+chamberlain
 chambermaid
 chameleon
 chamois
@@ -11904,6 +11905,7 @@ harper
 harping
 harpist
 harpoon
+harpsichord
 harpy
 harris
 harrison
@@ -12463,6 +12465,7 @@ honour
 hoo
 hood
 hooded
+hoodlum
 hoodoo
 hoodwink
 hoof
