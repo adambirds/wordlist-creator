@@ -19377,6 +19377,7 @@ plaid
 plain
 plainly
 plainness
+plaint
 plaintiff
 plaintive
 plait
@@ -22545,6 +22546,7 @@ sardonic
 sari
 sark
 sarong
+sarsaparilla
 sartorial
 sash
 saskatchewan
