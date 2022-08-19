@@ -24006,6 +24006,7 @@ smoothly
 smoothness
 smorgasbord
 smother
+sms
 smudge
 smudgy
 smug
