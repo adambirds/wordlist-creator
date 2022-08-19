@@ -8587,6 +8587,7 @@ embryo
 embryology
 embryonic
 emcee
+emendation
 emerald
 emerge
 emergence
