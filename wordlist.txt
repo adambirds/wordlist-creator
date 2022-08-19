@@ -2174,6 +2174,7 @@ basic
 basically
 basics
 basil
+basilica
 basilisk
 basin
 basis
