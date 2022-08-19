@@ -27040,6 +27040,7 @@ turkey
 turki
 turkic
 turkish
+turkmen
 turmeric
 turmoil
 turn
